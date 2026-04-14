@@ -21,24 +21,23 @@ except ImportError:
 
 # ── Sources ────────────────────────────────────────────────────────────────────
 SOURCES = {
-    "atp3": {
-        "name": "NCEP ATP III — Cholesterol Guidelines",
-        "url": "https://www.nhlbi.nih.gov/files/docs/guidelines/atp3xsum.pdf",
-        "keywords": [
-            "ldl", "hdl", "cholesterol", "triglyceride", "lipoprotein",
-            "coronary heart disease", "chd risk", "risk factor",
-            "cardiovascular", "atherosclerosis", "statin",
-        ],
-    },
-    "jnc7": {
-        "name": "JNC 7 — Blood Pressure Guidelines",
-        "url": "https://www.nhlbi.nih.gov/files/docs/guidelines/jnc7full.pdf",
+    "chol_bp": {
+        "name": "Joint dependence of risk of coronary heart disease on serum cholesterol and systolic blood pressure: a discriminant function analysis",
+        "url": "https://jhanley.biostat.mcgill.ca/c678/cornfield.pdf",
         "keywords": [
             "blood pressure", "hypertension", "systolic", "diastolic",
             "mmhg", "antihypertensive", "cardiovascular risk",
-            "prehypertension", "stage 1", "stage 2",
         ],
-    }
+    },
+    "who_guidelines": {
+        "name": "CLINICAL GUIDELINES FOR THE MANAGEMENT OF CORONARY HEART DISEASE",
+        "url": "https://extranet.who.int/ncdccs/Data/MUS_D1_chd.pdf",
+        "keywords": [
+            "blood pressure", "hypertension", "systolic", "diastolic",
+            "mmhg", "antihypertensive", "cardiovascular risk",
+        ],
+    },
+
 }
 
 MODEL = "gemma4:e4b"

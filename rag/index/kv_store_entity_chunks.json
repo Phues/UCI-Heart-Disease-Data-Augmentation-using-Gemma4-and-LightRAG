@@ -1,4246 +1,2763 @@
 {
-  "Therapeutic Lifestyle Changes (TLC)": {
+  "Cholesterol Level": {
     "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
-    "count": 2,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "Therapeutic Lifestyle Changes (TLC)"
-  },
-  "Clinical Primary Prevention": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "Clinical Primary Prevention"
-  },
-  "LDL Cholesterol": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 7,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "LDL Cholesterol"
-  },
-  "LDL-lowering Drugs": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 3,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "LDL-lowering Drugs"
-  },
-  "Major Coronary Events": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "Major Coronary Events"
-  },
-  "Coronary Death": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "Coronary Death"
-  },
-  "Secondary Dyslipidemia": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "Secondary Dyslipidemia"
-  },
-  "Hyperlipidemia": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184625,
-    "update_time": 1776184625,
-    "_id": "Hyperlipidemia"
-  },
-  "Diabetes": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 2,
-    "create_time": 1776184627,
-    "update_time": 1776184627,
-    "_id": "Diabetes"
-  },
-  "Hypothyroidism": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184627,
-    "update_time": 1776184627,
-    "_id": "Hypothyroidism"
-  },
-  "Obstructive Liver Disease": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184627,
-    "update_time": 1776184627,
-    "_id": "Obstructive Liver Disease"
-  },
-  "Chronic Renal Failure": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184627,
-    "update_time": 1776184627,
-    "_id": "Chronic Renal Failure"
-  },
-  "Progestins, Anabolic Steroids, Corticosteroids": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184628,
-    "update_time": 1776184628,
-    "_id": "Progestins, Anabolic Steroids, Corticosteroids"
-  },
-  "Secondary Prevention": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 2,
-    "create_time": 1776184628,
-    "update_time": 1776184628,
-    "_id": "Secondary Prevention"
-  },
-  "Total Mortality": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184628,
-    "update_time": 1776184628,
-    "_id": "Total Mortality"
-  },
-  "Coronary Heart Disease (CHD)": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4",
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 4,
-    "update_time": 1776186360,
-    "_id": "Coronary Heart Disease (CHD)"
-  },
-  "ATP III": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 3,
-    "create_time": 1776184628,
-    "update_time": 1776184628,
-    "_id": "ATP III"
-  },
-  "Metabolic Syndrome": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a",
-      "chunk-089153c0a9e43f431c755dfee9cbc20e",
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 7,
-    "update_time": 1776186294,
-    "_id": "Metabolic Syndrome"
-  },
-  "Saturated Fat and Cholesterol": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184629,
-    "update_time": 1776184629,
-    "_id": "Saturated Fat and Cholesterol"
-  },
-  "LDL Cholesterol Goal": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184629,
-    "update_time": 1776184629,
-    "_id": "LDL Cholesterol Goal"
-  },
-  "TLC Diet": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 3,
-    "create_time": 1776184629,
-    "update_time": 1776184629,
-    "_id": "TLC Diet"
-  },
-  "Optimal LDL Cholesterol Level": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184629,
-    "update_time": 1776184629,
-    "_id": "Optimal LDL Cholesterol Level"
-  },
-  "Total Cholesterol": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 3,
-    "create_time": 1776184630,
-    "update_time": 1776184630,
-    "_id": "Total Cholesterol"
-  },
-  "HDL Cholesterol": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 6,
-    "create_time": 1776184630,
-    "update_time": 1776184630,
-    "_id": "HDL Cholesterol"
-  },
-  "CHD": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 2,
-    "create_time": 1776184630,
-    "update_time": 1776184630,
-    "_id": "CHD"
-  },
-  "Framingham Risk Scores": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 1,
-    "create_time": 1776184630,
-    "update_time": 1776184630,
-    "_id": "Framingham Risk Scores"
-  },
-  "Cigarette Smoking": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 2,
-    "create_time": 1776184630,
-    "update_time": 1776184630,
-    "_id": "Cigarette Smoking"
-  },
-  "Hypertension": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-089153c0a9e43f431c755dfee9cbc20e",
-      "chunk-2c68597b34118931dc76621ef26e8459",
-      "chunk-58763f1e533c69de4d39064f39a03154",
-      "chunk-0aa33a009726cb2a0f199d167ecc8006",
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4",
-      "chunk-52224da6ee438f52167a3af07f7ae220",
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
-    ],
-    "count": 8,
-    "update_time": 1776186519,
-    "_id": "Hypertension"
-  },
-  "Family History of Premature CHD": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 1,
-    "create_time": 1776184631,
-    "update_time": 1776184631,
-    "_id": "Family History of Premature CHD"
-  },
-  "Age": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a",
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 3,
-    "update_time": 1776185120,
-    "_id": "Age"
-  },
-  "Atherosclerotic Disease": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 1,
-    "create_time": 1776184631,
-    "update_time": 1776184631,
-    "_id": "Atherosclerotic Disease"
-  },
-  "Peripheral Arterial Disease": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f",
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
-    ],
-    "count": 2,
-    "update_time": 1776186437,
-    "_id": "Peripheral Arterial Disease"
-  },
-  "Abdominal Aortic Aneurysm": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 1,
-    "create_time": 1776184631,
-    "update_time": 1776184631,
-    "_id": "Abdominal Aortic Aneurysm"
-  },
-  "Symptomatic Carotid Artery Disease": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 1,
-    "create_time": 1776184631,
-    "update_time": 1776184631,
-    "_id": "Symptomatic Carotid Artery Disease"
-  },
-  "National Cholesterol Education Program": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
-    ],
-    "count": 2,
-    "create_time": 1776184632,
-    "update_time": 1776184632,
-    "_id": "National Cholesterol Education Program"
-  },
-  "National Heart, Lung, and Blood Institute": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a",
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-58763f1e533c69de4d39064f39a03154",
-      "chunk-52224da6ee438f52167a3af07f7ae220"
-    ],
-    "count": 6,
-    "update_time": 1776186281,
-    "_id": "National Heart, Lung, and Blood Institute"
-  },
-  "National Institutes of Health": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 2,
-    "update_time": 1776186284,
-    "_id": "National Institutes of Health"
-  },
-  "High Blood Cholesterol": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
-    ],
-    "count": 2,
-    "create_time": 1776184632,
-    "update_time": 1776184632,
-    "_id": "High Blood Cholesterol"
-  },
-  "Adult Treatment Panel III": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 2,
-    "update_time": 1776186355,
-    "_id": "Adult Treatment Panel III"
-  },
-  "Congress": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
-    ],
-    "count": 1,
-    "create_time": 1776184632,
-    "update_time": 1776184632,
-    "_id": "Congress"
-  },
-  "Executive Order 11141": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
-    ],
-    "count": 1,
-    "create_time": 1776184633,
-    "update_time": 1776184633,
-    "_id": "Executive Order 11141"
-  },
-  "Executive Order 11246": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
-    ],
-    "count": 1,
-    "create_time": 1776184633,
-    "update_time": 1776184633,
-    "_id": "Executive Order 11246"
-  },
-  "Scott M. Grundy": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
-    ],
-    "count": 1,
-    "create_time": 1776184633,
-    "update_time": 1776184633,
-    "_id": "Scott M. Grundy"
-  },
-  "James I. Cleeman": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
-    ],
-    "count": 1,
-    "create_time": 1776184633,
-    "update_time": 1776184633,
-    "_id": "James I. Cleeman"
-  },
-  "Theodore G. Ganiats": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
-    ],
-    "count": 1,
-    "create_time": 1776184633,
-    "update_time": 1776184633,
-    "_id": "Theodore G. Ganiats"
-  },
-  "American Academy of Family Physicians": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 2,
-    "create_time": 1776184633,
-    "update_time": 1776184633,
-    "_id": "American Academy of Family Physicians"
-  },
-  "Third Report of the National Cholesterol Education Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184634,
-    "update_time": 1776184634,
-    "_id": "Third Report of the National Cholesterol Education Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults"
-  },
-  "National Cholesterol Education Program Coordinating Committee": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184634,
-    "update_time": 1776184634,
-    "_id": "National Cholesterol Education Program Coordinating Committee"
-  },
-  "American Academy of Insurance Medicine": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184634,
-    "update_time": 1776184634,
-    "_id": "American Academy of Insurance Medicine"
-  },
-  "American College of Cardiology": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186276,
-    "_id": "American College of Cardiology"
-  },
-  "American College of Chest Physicians": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184635,
-    "update_time": 1776184635,
-    "_id": "American College of Chest Physicians"
-  },
-  "American College of Nutrition": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184635,
-    "update_time": 1776184635,
-    "_id": "American College of Nutrition"
-  },
-  "American College of Obstetricians and Gynecologists": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184635,
-    "update_time": 1776184635,
-    "_id": "American College of Obstetricians and Gynecologists"
-  },
-  "American College of Occupational and Environmental Medicine": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186276,
-    "_id": "American College of Occupational and Environmental Medicine"
-  },
-  "American College of Preventive Medicine": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186277,
-    "_id": "American College of Preventive Medicine"
-  },
-  "American Diabetes Association, Inc.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184635,
-    "update_time": 1776184635,
-    "_id": "American Diabetes Association, Inc."
-  },
-  "American Heart Association": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186277,
-    "_id": "American Heart Association"
-  },
-  "American Medical Association": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186277,
-    "_id": "American Medical Association"
-  },
-  "American Nurses Association": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186277,
-    "_id": "American Nurses Association"
-  },
-  "American Pharmaceutical Association": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186278,
-    "_id": "American Pharmaceutical Association"
-  },
-  "American Public Health Association": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186278,
-    "_id": "American Public Health Association"
-  },
-  "American Red Cross": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186278,
-    "_id": "American Red Cross"
-  },
-  "Association of Black Cardiologists": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186279,
-    "_id": "Association of Black Cardiologists"
-  },
-  "Association of State and Territorial Health Officials": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184637,
-    "update_time": 1776184637,
-    "_id": "Association of State and Territorial Health Officials"
-  },
-  "Citizens for Public Action on Blood Pressure and Cholesterol, Inc.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184637,
-    "update_time": 1776184637,
-    "_id": "Citizens for Public Action on Blood Pressure and Cholesterol, Inc."
-  },
-  "National Black Nurses Association, Inc.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186280,
-    "_id": "National Black Nurses Association, Inc."
-  },
-  "National Medical Association": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186281,
-    "_id": "National Medical Association"
-  },
-  "Society for Nutrition Education": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 2,
-    "update_time": 1776186281,
-    "_id": "Society for Nutrition Education"
-  },
-  "Society for Public Health Education": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184638,
-    "update_time": 1776184638,
-    "_id": "Society for Public Health Education"
-  },
-  "American Association of Office Nurses": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184638,
-    "update_time": 1776184638,
-    "_id": "American Association of Office Nurses"
-  },
-  "Claude Lenfant, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184638,
-    "update_time": 1776184638,
-    "_id": "Claude Lenfant, M.D."
-  },
-  "James I. Cleeman, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184638,
-    "update_time": 1776184638,
-    "_id": "James I. Cleeman, M.D."
-  },
-  "Theodore G. Ganiats, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184639,
-    "update_time": 1776184639,
-    "_id": "Theodore G. Ganiats, M.D."
-  },
-  "Gary Graham, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184639,
-    "update_time": 1776184639,
-    "_id": "Gary Graham, M.D."
-  },
-  "Ronald E. Kleinman, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184639,
-    "update_time": 1776184639,
-    "_id": "Ronald E. Kleinman, M.D."
-  },
-  "Pamela Hixon, B.S.N., R.N., C.O.H.N-S": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184639,
-    "update_time": 1776184639,
-    "_id": "Pamela Hixon, B.S.N., R.N., C.O.H.N-S"
-  },
-  "Richard C. Pasternak, M.D., F.A.C.C.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184640,
-    "update_time": 1776184640,
-    "_id": "Richard C. Pasternak, M.D., F.A.C.C."
-  },
-  "Gerald T. Gau, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184640,
-    "update_time": 1776184640,
-    "_id": "Gerald T. Gau, M.D."
-  },
-  "Harry Preuss, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184640,
-    "update_time": 1776184640,
-    "_id": "Harry Preuss, M.D."
-  },
-  "Thomas C. Peng, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184640,
-    "update_time": 1776184640,
-    "_id": "Thomas C. Peng, M.D."
-  },
-  "Ruth Ann Jordan, M.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184640,
-    "update_time": 1776184640,
-    "_id": "Ruth Ann Jordan, M.D."
-  },
-  "Lewis H. Kuller, M.D., Dr.P.H.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184640,
-    "update_time": 1776184640,
-    "_id": "Lewis H. Kuller, M.D., Dr.P.H."
-  },
-  "Alan J. Garber, M.D., Ph.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184641,
-    "update_time": 1776184641,
-    "_id": "Alan J. Garber, M.D., Ph.D."
-  },
-  "Linda Van Horn, Ph.D., R.D.": {
-    "chunk_ids": [
-      "chunk-4417d5a880fb11a8f66ef7c4eb00233a"
-    ],
-    "count": 1,
-    "create_time": 1776184641,
-    "update_time": 1776184641,
-    "_id": "Linda Van Horn, Ph.D., R.D."
-  },
-  "Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
-    ],
-    "count": 1,
-    "create_time": 1776184641,
-    "update_time": 1776184641,
-    "_id": "Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)"
-  },
-  "Triglycerides": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 3,
-    "create_time": 1776184641,
-    "update_time": 1776184641,
-    "_id": "Triglycerides"
-  },
-  "Lipoprotein Profile": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
-    ],
-    "count": 1,
-    "create_time": 1776184641,
-    "update_time": 1776184641,
-    "_id": "Lipoprotein Profile"
-  },
-  "Framingham Projections": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
-    ],
-    "count": 1,
-    "create_time": 1776184641,
-    "update_time": 1776184641,
-    "_id": "Framingham Projections"
-  },
-  "ATP I": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
-    ],
-    "count": 1,
-    "create_time": 1776184642,
-    "update_time": 1776184642,
-    "_id": "ATP I"
-  },
-  "ATP II": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
-    ],
-    "count": 1,
-    "create_time": 1776184642,
-    "update_time": 1776184642,
-    "_id": "ATP II"
-  },
-  "Plant Stanols/Sterols": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 3,
-    "create_time": 1776184642,
-    "update_time": 1776184642,
-    "_id": "Plant Stanols/Sterols"
-  },
-  "Viscous Fiber": {
-    "chunk_ids": [
-      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 2,
-    "create_time": 1776184642,
-    "update_time": 1776184642,
-    "_id": "Viscous Fiber"
-  },
-  "Nicotinic Acid": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 2,
-    "create_time": 1776184643,
-    "update_time": 1776184643,
-    "_id": "Nicotinic Acid"
-  },
-  "Fibric Acid": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 1,
-    "create_time": 1776184643,
-    "update_time": 1776184643,
-    "_id": "Fibric Acid"
-  },
-  "Triglyceride": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 1,
-    "create_time": 1776184643,
-    "update_time": 1776184643,
-    "_id": "Triglyceride"
-  },
-  "10-Year Risk": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 1,
-    "create_time": 1776184643,
-    "update_time": 1776184643,
-    "_id": "10-Year Risk"
-  },
-  "Coronary Atherosclerosis": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 1,
-    "create_time": 1776184643,
-    "update_time": 1776184643,
-    "_id": "Coronary Atherosclerosis"
-  },
-  "Saturated Fats": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 1,
-    "create_time": 1776184643,
-    "update_time": 1776184643,
-    "_id": "Saturated Fats"
-  },
-  "Cholesterol": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 2,
-    "create_time": 1776184644,
-    "update_time": 1776184644,
-    "_id": "Cholesterol"
-  },
-  "Clinical Judgment": {
-    "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
-    ],
-    "count": 1,
-    "create_time": 1776184644,
-    "update_time": 1776184644,
-    "_id": "Clinical Judgment"
-  },
-  "Statin Drugs": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184644,
-    "update_time": 1776184644,
-    "_id": "Statin Drugs"
-  },
-  "Bile Acid Sequestrants": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4",
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 2,
-    "create_time": 1776184644,
-    "update_time": 1776184644,
-    "_id": "Bile Acid Sequestrants"
-  },
-  "Fibrates": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184644,
-    "update_time": 1776184644,
-    "_id": "Fibrates"
-  },
-  "Hyperuricemia": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184644,
-    "update_time": 1776184644,
-    "_id": "Hyperuricemia"
-  },
-  "Hepatotoxicity": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184645,
-    "update_time": 1776184645,
-    "_id": "Hepatotoxicity"
-  },
-  "Food and Drug Administration (FDA)": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184645,
-    "update_time": 1776184645,
-    "_id": "Food and Drug Administration (FDA)"
-  },
-  "Peptic Ulcer Disease": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184645,
-    "update_time": 1776184645,
-    "_id": "Peptic Ulcer Disease"
-  },
-  "Dyspepsia": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184645,
-    "update_time": 1776184645,
-    "_id": "Dyspepsia"
-  },
-  "Myopathy": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184646,
-    "update_time": 1776184646,
-    "_id": "Myopathy"
-  },
-  "Cytochrome P-450 Inhibitors": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184646,
-    "update_time": 1776184646,
-    "_id": "Cytochrome P-450 Inhibitors"
-  },
-  "Gastrointestinal Distress": {
-    "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
-    ],
-    "count": 1,
-    "create_time": 1776184706,
-    "update_time": 1776184706,
-    "_id": "Gastrointestinal Distress"
-  },
-  "Viscous (Soluble) Fiber": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184706,
-    "update_time": 1776184706,
-    "_id": "Viscous (Soluble) Fiber"
-  },
-  "Saturated Fat": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94",
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 2,
-    "create_time": 1776184706,
-    "update_time": 1776184706,
-    "_id": "Saturated Fat"
-  },
-  "Polyunsaturated Fat": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184706,
-    "update_time": 1776184706,
-    "_id": "Polyunsaturated Fat"
-  },
-  "Monounsaturated Fat": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184707,
-    "update_time": 1776184707,
-    "_id": "Monounsaturated Fat"
-  },
-  "Total Fat": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184707,
-    "update_time": 1776184707,
-    "_id": "Total Fat"
-  },
-  "Carbohydrate": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184707,
-    "update_time": 1776184707,
-    "_id": "Carbohydrate"
-  },
-  "Fiber": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184707,
-    "update_time": 1776184707,
-    "_id": "Fiber"
-  },
-  "Protein": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184707,
-    "update_time": 1776184707,
-    "_id": "Protein"
-  },
-  "Total Calories (Energy)": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184707,
-    "update_time": 1776184707,
-    "_id": "Total Calories (Energy)"
-  },
-  "Overweight And Obese": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184708,
-    "update_time": 1776184708,
-    "_id": "Overweight And Obese"
-  },
-  "Weight Reduction Therapy": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184708,
-    "update_time": 1776184708,
-    "_id": "Weight Reduction Therapy"
-  },
-  "Dietary Guidelines For Americans 2000": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184708,
-    "update_time": 1776184708,
-    "_id": "Dietary Guidelines For Americans 2000"
-  },
-  "Physical Activity": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184708,
-    "update_time": 1776184708,
-    "_id": "Physical Activity"
-  },
-  "Registered Dietitians": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184709,
-    "update_time": 1776184709,
-    "_id": "Registered Dietitians"
-  },
-  "HMG CoA Reductase Inhibitors": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184709,
-    "update_time": 1776184709,
-    "_id": "HMG CoA Reductase Inhibitors"
-  },
-  "Transfatty Acids": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184709,
-    "update_time": 1776184709,
-    "_id": "Transfatty Acids"
-  },
-  "Complex Carbohydrates": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184709,
-    "update_time": 1776184709,
-    "_id": "Complex Carbohydrates"
-  },
-  "Nutritionist": {
-    "chunk_ids": [
-      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
-    ],
-    "count": 1,
-    "create_time": 1776184709,
-    "update_time": 1776184709,
-    "_id": "Nutritionist"
-  },
-  "Framingham Scoring": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
     "count": 1,
-    "create_time": 1776184709,
-    "update_time": 1776184709,
-    "_id": "Framingham Scoring"
+    "create_time": 1776188616,
+    "update_time": 1776188616,
+    "_id": "Cholesterol Level"
   },
   "Blood Pressure": {
     "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a",
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0",
+      "chunk-cc71e0306c5c259756e6206620a858b1",
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490",
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-725fd25b2b914218473f4027eb936a0b",
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
-    "count": 2,
-    "update_time": 1776186371,
+    "count": 6,
+    "update_time": 1776190225,
     "_id": "Blood Pressure"
   },
-  "10-year Risk for CHD": {
+  "Risk of Developing Coronary Heart Disease": {
     "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184710,
-    "update_time": 1776184710,
-    "_id": "10-year Risk for CHD"
+    "create_time": 1776188616,
+    "update_time": 1776188616,
+    "_id": "Risk of Developing Coronary Heart Disease"
   },
-  "Core Risk Status": {
+  "Framingham Population": {
     "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184710,
-    "update_time": 1776184710,
-    "_id": "Core Risk Status"
+    "create_time": 1776188616,
+    "update_time": 1776188616,
+    "_id": "Framingham Population"
   },
-  "Life-Habit Risk Factors": {
+  "Discriminant Functions": {
     "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184710,
-    "update_time": 1776184710,
-    "_id": "Life-Habit Risk Factors"
-  },
-  "Emerging Risk Factors": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184710,
-    "update_time": 1776184710,
-    "_id": "Emerging Risk Factors"
-  },
-  "Primary Prevention": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184710,
-    "update_time": 1776184710,
-    "_id": "Primary Prevention"
-  },
-  "Obesity": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184711,
-    "update_time": 1776184711,
-    "_id": "Obesity"
-  },
-  "Physical Inactivity": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184711,
-    "update_time": 1776184711,
-    "_id": "Physical Inactivity"
-  },
-  "Atherogenic Diet": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184711,
-    "update_time": 1776184711,
-    "_id": "Atherogenic Diet"
-  },
-  "Homocysteine": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184711,
-    "update_time": 1776184711,
-    "_id": "Homocysteine"
-  },
-  "Impaired Fasting Glucose": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184711,
-    "update_time": 1776184711,
-    "_id": "Impaired Fasting Glucose"
-  },
-  "Abdominal Obesity": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184712,
-    "update_time": 1776184712,
-    "_id": "Abdominal Obesity"
-  },
-  "Atherogenic Dyslipidemia": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184712,
-    "update_time": 1776184712,
-    "_id": "Atherogenic Dyslipidemia"
-  },
-  "Insulin Resistance": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184712,
-    "update_time": 1776184712,
-    "_id": "Insulin Resistance"
-  },
-  "Weight Control": {
-    "chunk_ids": [
-      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
-    ],
-    "count": 1,
-    "create_time": 1776184712,
-    "update_time": 1776184712,
-    "_id": "Weight Control"
-  },
-  "Drug Therapy": {
-    "chunk_ids": [
-      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
-    ],
-    "count": 1,
-    "create_time": 1776184713,
-    "update_time": 1776184713,
-    "_id": "Drug Therapy"
-  },
-  "Major Risk Factors": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 1,
-    "create_time": 1776184715,
-    "update_time": 1776184715,
-    "_id": "Major Risk Factors"
-  },
-  "Risk Category": {
-    "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
-    ],
-    "count": 1,
-    "create_time": 1776184716,
-    "update_time": 1776184716,
-    "_id": "Risk Category"
-  },
-  "United States": {
-    "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0",
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 2,
-    "update_time": 1776186375,
-    "_id": "United States"
+    "create_time": 1776188616,
+    "update_time": 1776188616,
+    "_id": "Discriminant Functions"
   },
-  "Multiple Risk Factors": {
+  "5th Percentile": {
     "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184717,
-    "update_time": 1776184717,
-    "_id": "Multiple Risk Factors"
+    "create_time": 1776188616,
+    "update_time": 1776188616,
+    "_id": "5th Percentile"
   },
-  "CHD risk equivalents": {
+  "95th Percentile": {
     "chunk_ids": [
-      "chunk-c570d0f2b907a96493872be58707aa5f"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184717,
-    "update_time": 1776184717,
-    "_id": "CHD risk equivalents"
+    "create_time": 1776188616,
+    "update_time": 1776188616,
+    "_id": "95th Percentile"
   },
-  "NCEP Expert Panel": {
+  "1% Difference": {
     "chunk_ids": [
-      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184717,
-    "update_time": 1776184717,
-    "_id": "NCEP Expert Panel"
+    "create_time": 1776188616,
+    "update_time": 1776188616,
+    "_id": "1% Difference"
   },
-  "100 mg/dL": {
+  "2.66% Difference": {
     "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184719,
-    "update_time": 1776184719,
-    "_id": "100 mg/dL"
+    "create_time": 1776188618,
+    "update_time": 1776188618,
+    "_id": "2.66% Difference"
   },
-  "Older Persons": {
+  "4.62% Difference": {
     "chunk_ids": [
-      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184719,
-    "update_time": 1776184719,
-    "_id": "Older Persons"
+    "create_time": 1776188618,
+    "update_time": 1776188618,
+    "_id": "4.62% Difference"
   },
-  "Drug Use": {
+  "110 mm Hg": {
     "chunk_ids": [
-      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776184721,
-    "update_time": 1776184721,
-    "_id": "Drug Use"
+    "create_time": 1776188618,
+    "update_time": 1776188618,
+    "_id": "110 mm Hg"
   },
-  "World Athletics Championship": {
+  "175 mm Hg": {
     "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
+      "chunk-6d8cca0699acb22993f8cf6baa3a4bd0"
     ],
     "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "World Athletics Championship"
+    "create_time": 1776188618,
+    "update_time": 1776188618,
+    "_id": "175 mm Hg"
   },
-  "Tokyo": {
+  "CHD Population": {
     "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "Tokyo"
-  },
-  "Noah Carter": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "Noah Carter"
-  },
-  "100m Sprint Record": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "100m Sprint Record"
-  },
-  "Carbon-Fiber Spikes": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "Carbon-Fiber Spikes"
-  },
-  "World Athletics Federation": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "World Athletics Federation"
-  },
-  "Global Tech Index": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "Global Tech Index"
-  },
-  "Nexon Technologies": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185108,
-    "update_time": 1776185108,
-    "_id": "Nexon Technologies"
-  },
-  "Omega Energy": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185110,
-    "update_time": 1776185110,
-    "_id": "Omega Energy"
-  },
-  "Gold Futures": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185110,
-    "update_time": 1776185110,
-    "_id": "Gold Futures"
-  },
-  "Crude Oil": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185110,
-    "update_time": 1776185110,
-    "_id": "Crude Oil"
-  },
-  "Market Selloff": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185110,
-    "update_time": 1776185110,
-    "_id": "Market Selloff"
-  },
-  "Federal Reserve Policy Announcement": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185110,
-    "update_time": 1776185110,
-    "_id": "Federal Reserve Policy Announcement"
-  },
-  "oldpeak": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185110,
-    "update_time": 1776185110,
-    "_id": "oldpeak"
-  },
-  "slope": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185111,
-    "update_time": 1776185111,
-    "_id": "slope"
-  },
-  "rldv5": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185111,
-    "update_time": 1776185111,
-    "_id": "rldv5"
-  },
-  "rldv5e": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185111,
-    "update_time": 1776185111,
-    "_id": "rldv5e"
-  },
-  "ca": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185111,
-    "update_time": 1776185111,
-    "_id": "ca"
-  },
-  "restef": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185112,
-    "update_time": 1776185112,
-    "_id": "restef"
-  },
-  "restwm": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185112,
-    "update_time": 1776185112,
-    "_id": "restwm"
-  },
-  "exeref": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185112,
-    "update_time": 1776185112,
-    "_id": "exeref"
-  },
-  "exerwm": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185112,
-    "update_time": 1776185112,
-    "_id": "exerwm"
-  },
-  "thal": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185112,
-    "update_time": 1776185112,
-    "_id": "thal"
-  },
-  "cmo": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185112,
-    "update_time": 1776185112,
-    "_id": "cmo"
-  },
-  "cday": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185113,
-    "update_time": 1776185113,
-    "_id": "cday"
-  },
-  "cyr": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185113,
-    "update_time": 1776185113,
-    "_id": "cyr"
-  },
-  "num": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185113,
-    "update_time": 1776185113,
-    "_id": "num"
-  },
-  "ladprox": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185113,
-    "update_time": 1776185113,
-    "_id": "ladprox"
-  },
-  "laddist": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185113,
-    "update_time": 1776185113,
-    "_id": "laddist"
-  },
-  "diag": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185116,
-    "update_time": 1776185116,
-    "_id": "diag"
-  },
-  "cxmain": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185116,
-    "update_time": 1776185116,
-    "_id": "cxmain"
-  },
-  "ramus": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185117,
-    "update_time": 1776185117,
-    "_id": "ramus"
-  },
-  "om1": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185117,
-    "update_time": 1776185117,
-    "_id": "om1"
-  },
-  "om2": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185117,
-    "update_time": 1776185117,
-    "_id": "om2"
-  },
-  "rcaprox": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185117,
-    "update_time": 1776185117,
-    "_id": "rcaprox"
-  },
-  "rcadist": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185117,
-    "update_time": 1776185117,
-    "_id": "rcadist"
-  },
-  "Class Distribution Data": {
-    "chunk_ids": [
-      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
-    ],
-    "count": 1,
-    "create_time": 1776185117,
-    "update_time": 1776185117,
-    "_id": "Class Distribution Data"
-  },
-  "Cleveland Clinic Foundation": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185118,
-    "update_time": 1776185118,
-    "_id": "Cleveland Clinic Foundation"
-  },
-  "Hungarian Institute Of Cardiology": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185118,
-    "update_time": 1776185118,
-    "_id": "Hungarian Institute Of Cardiology"
-  },
-  "V.A. Medical Center, Long Beach": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185118,
-    "update_time": 1776185118,
-    "_id": "V.A. Medical Center, Long Beach"
-  },
-  "University Hospital, Zurich": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185118,
-    "update_time": 1776185118,
-    "_id": "University Hospital, Zurich"
-  },
-  "Heart Disease Diagnosis": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185118,
-    "update_time": 1776185118,
-    "_id": "Heart Disease Diagnosis"
-  },
-  "Data Set": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185118,
-    "update_time": 1776185118,
-    "_id": "Data Set"
-  },
-  "David W. Aha": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185119,
-    "update_time": 1776185119,
-    "_id": "David W. Aha"
-  },
-  "Andras Janosi": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185119,
-    "update_time": 1776185119,
-    "_id": "Andras Janosi"
-  },
-  "William Steinbrunn": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185119,
-    "update_time": 1776185119,
-    "_id": "William Steinbrunn"
-  },
-  "Matthias Pfisterer": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185119,
-    "update_time": 1776185119,
-    "_id": "Matthias Pfisterer"
-  },
-  "Robert Detrano": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185120,
-    "update_time": 1776185120,
-    "_id": "Robert Detrano"
-  },
-  "University Hospital, Basel": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185120,
-    "update_time": 1776185120,
-    "_id": "University Hospital, Basel"
-  },
-  "76 Raw Attributes": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185120,
-    "update_time": 1776185120,
-    "_id": "76 Raw Attributes"
-  },
-  "14 Used Attributes": {
-    "chunk_ids": [
-      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
-    ],
-    "count": 1,
-    "create_time": 1776185120,
-    "update_time": 1776185120,
-    "_id": "14 Used Attributes"
-  },
-  "Sex": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185120,
-    "update_time": 1776185120,
-    "_id": "Sex"
-  },
-  "Chest Pain Type (Cp)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185121,
-    "update_time": 1776185121,
-    "_id": "Chest Pain Type (Cp)"
-  },
-  "Resting Blood Pressure (Trestbps)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185121,
-    "update_time": 1776185121,
-    "_id": "Resting Blood Pressure (Trestbps)"
-  },
-  "Serum Cholesterol (Chol)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185121,
-    "update_time": 1776185121,
-    "_id": "Serum Cholesterol (Chol)"
-  },
-  "Fasting Blood Sugar (Fbs)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185121,
-    "update_time": 1776185121,
-    "_id": "Fasting Blood Sugar (Fbs)"
-  },
-  "Resting Electrocardiographic Results (Restecg)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185121,
-    "update_time": 1776185121,
-    "_id": "Resting Electrocardiographic Results (Restecg)"
-  },
-  "Maximum Heart Rate Achieved (Thalach)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185121,
-    "update_time": 1776185121,
-    "_id": "Maximum Heart Rate Achieved (Thalach)"
-  },
-  "Exercise Induced Angina (Exang)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185122,
-    "update_time": 1776185122,
-    "_id": "Exercise Induced Angina (Exang)"
-  },
-  "Oldpeak": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185122,
-    "update_time": 1776185122,
-    "_id": "Oldpeak"
-  },
-  "Slope": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185122,
-    "update_time": 1776185122,
-    "_id": "Slope"
-  },
-  "Major Vessels (Ca)": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185122,
-    "update_time": 1776185122,
-    "_id": "Major Vessels (Ca)"
-  },
-  "Pain Location": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185122,
-    "update_time": 1776185122,
-    "_id": "Pain Location"
-  },
-  "Chest Pain Exertion": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185123,
-    "update_time": 1776185123,
-    "_id": "Chest Pain Exertion"
-  },
-  "Relief After Rest": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185123,
-    "update_time": 1776185123,
-    "_id": "Relief After Rest"
-  },
-  "History Of Diabetes": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185123,
-    "update_time": 1776185123,
-    "_id": "History Of Diabetes"
-  },
-  "Family History": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185123,
-    "update_time": 1776185123,
-    "_id": "Family History"
-  },
-  "Smoking History": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185123,
-    "update_time": 1776185123,
-    "_id": "Smoking History"
-  },
-  "Exercise Protocol": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185124,
-    "update_time": 1776185124,
-    "_id": "Exercise Protocol"
-  },
-  "Digitalis Use": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185124,
-    "update_time": 1776185124,
-    "_id": "Digitalis Use"
-  },
-  "Beta Blocker Use": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185124,
-    "update_time": 1776185124,
-    "_id": "Beta Blocker Use"
-  },
-  "Nitrate Use": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185124,
-    "update_time": 1776185124,
-    "_id": "Nitrate Use"
-  },
-  "Calcium Channel Blocker Use": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185124,
-    "update_time": 1776185124,
-    "_id": "Calcium Channel Blocker Use"
-  },
-  "Diuretic Use": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185124,
-    "update_time": 1776185124,
-    "_id": "Diuretic Use"
-  },
-  "Exercise Blood Pressure": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185125,
-    "update_time": 1776185125,
-    "_id": "Exercise Blood Pressure"
-  },
-  "Concept": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185128,
-    "update_time": 1776185128,
-    "_id": "Concept"
-  },
-  "Exercise Induced Angina": {
-    "chunk_ids": [
-      "chunk-447c6e3389a31a2f5b30a6feff63926e"
-    ],
-    "count": 1,
-    "create_time": 1776185130,
-    "update_time": 1776185130,
-    "_id": "Exercise Induced Angina"
-  },
-  "David Lee": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "David Lee"
-  },
-  "Philip B. Gorelik": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "Philip B. Gorelik"
-  },
-  "Mary M. Hand": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "Mary M. Hand"
-  },
-  "Linda A. Hershey": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "Linda A. Hershey"
-  },
-  "Norman M. Kaplan": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "Norman M. Kaplan"
-  },
-  "Daniel Levy": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "Daniel Levy"
-  },
-  "James W. Lohr": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "James W. Lohr"
-  },
-  "American Association of Occupational Health Medicine": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186274,
-    "update_time": 1776186274,
-    "_id": "American Association of Occupational Health Medicine"
-  },
-  "American College of Physicians-American": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186277,
-    "update_time": 1776186277,
-    "_id": "American College of Physicians-American"
-  },
-  "American Diabetes Association": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186277,
-    "update_time": 1776186277,
-    "_id": "American Diabetes Association"
-  },
-  "American Optometric Association": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186278,
-    "update_time": 1776186278,
-    "_id": "American Optometric Association"
-  },
-  "American Osteopathic Association": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186278,
-    "update_time": 1776186278,
-    "_id": "American Osteopathic Association"
-  },
-  "American Podiatric Medical Association": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186278,
-    "update_time": 1776186278,
-    "_id": "American Podiatric Medical Association"
-  },
-  "American Society of Health-System Pharmacists": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186279,
-    "update_time": 1776186279,
-    "_id": "American Society of Health-System Pharmacists"
-  },
-  "American Society of Hypertension": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186279,
-    "update_time": 1776186279,
-    "_id": "American Society of Hypertension"
-  },
-  "American Society of Nephrology": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186279,
-    "update_time": 1776186279,
-    "_id": "American Society of Nephrology"
-  },
-  "Citizens for Public Action on High Blood Pressure and Cholesterol, Inc.": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186280,
-    "update_time": 1776186280,
-    "_id": "Citizens for Public Action on High Blood Pressure and Cholesterol, Inc."
-  },
-  "Hypertension Education Foundation, Inc.": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186280,
-    "update_time": 1776186280,
-    "_id": "Hypertension Education Foundation, Inc."
-  },
-  "International Society on Hypertension in Blacks": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186280,
-    "update_time": 1776186280,
-    "_id": "International Society on Hypertension in Blacks"
-  },
-  "National Hypertension Association, Inc.": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186280,
-    "update_time": 1776186280,
-    "_id": "National Hypertension Association, Inc."
-  },
-  "National Kidney Foundation, Inc.": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186280,
-    "update_time": 1776186280,
-    "_id": "National Kidney Foundation, Inc."
-  },
-  "National Optometric Association": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186281,
-    "update_time": 1776186281,
-    "_id": "National Optometric Association"
-  },
-  "National Stroke Association": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a",
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1",
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 2,
-    "create_time": 1776186281,
-    "update_time": 1776186281,
-    "_id": "National Stroke Association"
+    "create_time": 1776188619,
+    "update_time": 1776188619,
+    "_id": "CHD Population"
   },
-  "Ad Hoc Committee on Minority Populations": {
+  "NCHD Population": {
     "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186281,
-    "update_time": 1776186281,
-    "_id": "Ad Hoc Committee on Minority Populations"
-  },
-  "The Society of Geriatric Cardiology": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186282,
-    "update_time": 1776186282,
-    "_id": "The Society of Geriatric Cardiology"
-  },
-  "Agency for Health Care Research and Quality": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186282,
-    "update_time": 1776186282,
-    "_id": "Agency for Health Care Research and Quality"
-  },
-  "Centers for Medicare & Medicaid Services": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186282,
-    "update_time": 1776186282,
-    "_id": "Centers for Medicare & Medicaid Services"
-  },
-  "Department of Veterans Affairs": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a"
-    ],
-    "count": 1,
-    "create_time": 1776186282,
-    "update_time": 1776186282,
-    "_id": "Department of Veterans Affairs"
-  },
-  "Health Resources and Services Administration": {
-    "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a",
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1",
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 2,
-    "create_time": 1776186282,
-    "update_time": 1776186282,
-    "_id": "Health Resources and Services Administration"
+    "create_time": 1776188619,
+    "update_time": 1776188619,
+    "_id": "NCHD Population"
   },
-  "National Center for Health Statistics": {
+  "Serum Cholesterol": {
     "chunk_ids": [
-      "chunk-d96a06cecd736cbf1db97a308bbdfd7a",
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1",
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490",
+      "chunk-2a698820f9767612065e4d08199917ba"
+    ],
+    "count": 3,
+    "create_time": 1776188619,
+    "update_time": 1776188619,
+    "_id": "Serum Cholesterol"
+  },
+  "Systolic Blood Pressure": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1",
+      "chunk-2a698820f9767612065e4d08199917ba"
     ],
     "count": 2,
-    "create_time": 1776186283,
-    "update_time": 1776186283,
-    "_id": "National Center for Health Statistics"
+    "create_time": 1776188619,
+    "update_time": 1776188619,
+    "_id": "Systolic Blood Pressure"
   },
-  "Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure": {
+  "Equation 5": {
     "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
+    ],
+    "count": 1,
+    "create_time": 1776188620,
+    "update_time": 1776188620,
+    "_id": "Equation 5"
+  },
+  "Equation 6": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
+    ],
+    "count": 1,
+    "create_time": 1776188620,
+    "update_time": 1776188620,
+    "_id": "Equation 6"
+  },
+  "Discriminant Function": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
+    ],
+    "count": 1,
+    "create_time": 1776188620,
+    "update_time": 1776188620,
+    "_id": "Discriminant Function"
+  },
+  "Table 2": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
+    ],
+    "count": 1,
+    "create_time": 1776188620,
+    "update_time": 1776188620,
+    "_id": "Table 2"
+  },
+  "Variances": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
+    ],
+    "count": 1,
+    "create_time": 1776188620,
+    "update_time": 1776188620,
+    "_id": "Variances"
+  },
+  "Correlation Coefficient": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
+    ],
+    "count": 1,
+    "create_time": 1776188620,
+    "update_time": 1776188620,
+    "_id": "Correlation Coefficient"
+  },
+  "Confidence Limits": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
+    ],
+    "count": 1,
+    "create_time": 1776188621,
+    "update_time": 1776188621,
+    "_id": "Confidence Limits"
+  },
+  "Log10 Cholesterol": {
+    "chunk_ids": [
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1",
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 2,
-    "create_time": 1776186283,
-    "update_time": 1776186283,
-    "_id": "Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure"
+    "create_time": 1776188621,
+    "update_time": 1776188621,
+    "_id": "Log10 Cholesterol"
   },
-  "JNC 7": {
+  "Log (Blood Pressure - 75)": {
     "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-0aa33a009726cb2a0f199d167ecc8006"
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
     ],
-    "count": 2,
-    "create_time": 1776186283,
-    "update_time": 1776186283,
-    "_id": "JNC 7"
-  },
-  "National High Blood Pressure Education Program": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186283,
-    "update_time": 1776186283,
-    "_id": "National High Blood Pressure Education Program"
-  },
-  "U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186283,
-    "update_time": 1776186283,
-    "_id": "U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES"
-  },
-  "Aram V. Chobanian": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186284,
-    "update_time": 1776186284,
-    "_id": "Aram V. Chobanian"
-  },
-  "George L. Bakris": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186284,
-    "update_time": 1776186284,
-    "_id": "George L. Bakris"
-  },
-  "William C. Cushman": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 2,
-    "create_time": 1776186284,
-    "update_time": 1776186284,
-    "_id": "William C. Cushman"
-  },
-  "Lee A. Green": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186284,
-    "update_time": 1776186284,
-    "_id": "Lee A. Green"
-  },
-  "Joseph L. Izzo": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186284,
-    "update_time": 1776186284,
-    "_id": "Joseph L. Izzo"
-  },
-  "Henry R. Black": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186285,
-    "update_time": 1776186285,
-    "_id": "Henry R. Black"
-  },
-  "Daniel W. Jones": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186285,
-    "update_time": 1776186285,
-    "_id": "Daniel W. Jones"
-  },
-  "Barry J. Materson": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186285,
-    "update_time": 1776186285,
-    "_id": "Barry J. Materson"
-  },
-  "Suzanne Oparil": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186285,
-    "update_time": 1776186285,
-    "_id": "Suzanne Oparil"
-  },
-  "Jackson T. Wright, Jr.": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186285,
-    "update_time": 1776186285,
-    "_id": "Jackson T. Wright, Jr."
-  },
-  "Edward J. Roccella": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186285,
-    "update_time": 1776186285,
-    "_id": "Edward J. Roccella"
-  },
-  "Dr. Manger": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186286,
-    "update_time": 1776186286,
-    "_id": "Dr. Manger"
-  },
-  "Boston University": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186286,
-    "update_time": 1776186286,
-    "_id": "Boston University"
-  },
-  "Bristol-Myers Squibb": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186286,
-    "update_time": 1776186286,
-    "_id": "Bristol-Myers Squibb"
-  },
-  "Boehringer-Ingelheim": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186286,
-    "update_time": 1776186286,
-    "_id": "Boehringer-Ingelheim"
-  },
-  "Merck": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186286,
-    "update_time": 1776186286,
-    "_id": "Merck"
-  },
-  "Pfizer": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186287,
-    "update_time": 1776186287,
-    "_id": "Pfizer"
-  },
-  "Pharmacia": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186287,
-    "update_time": 1776186287,
-    "_id": "Pharmacia"
-  },
-  "Abbott Laboratories": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186287,
-    "update_time": 1776186287,
-    "_id": "Abbott Laboratories"
-  },
-  "Astra-Zeneca": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186287,
-    "update_time": 1776186287,
-    "_id": "Astra-Zeneca"
-  },
-  "GlaxoSmithKline": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 2,
-    "create_time": 1776186287,
-    "update_time": 1776186287,
-    "_id": "GlaxoSmithKline"
-  },
-  "University of Michigan": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186288,
-    "update_time": 1776186288,
-    "_id": "University of Michigan"
-  },
-  "Veterans Affairs Medical Center": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186288,
-    "update_time": 1776186288,
-    "_id": "Veterans Affairs Medical Center"
-  },
-  "Alabama at Birmingham": {
-    "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
-    ],
-    "count": 1,
-    "create_time": 1776186288,
-    "update_time": 1776186288,
-    "_id": "Alabama at Birmingham"
-  },
-  "Abbott": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186288,
-    "update_time": 1776186288,
-    "_id": "Abbott"
-  },
-  "Alteon": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186288,
-    "update_time": 1776186288,
-    "_id": "Alteon"
-  },
-  "Biovail": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186289,
-    "update_time": 1776186289,
-    "_id": "Biovail"
-  },
-  "Forest": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186289,
-    "update_time": 1776186289,
-    "_id": "Forest"
-  },
-  "Novartis": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186289,
-    "update_time": 1776186289,
-    "_id": "Novartis"
-  },
-  "Sanofi": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186289,
-    "update_time": 1776186289,
-    "_id": "Sanofi"
-  },
-  "Sankyo": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186289,
-    "update_time": 1776186289,
-    "_id": "Sankyo"
-  },
-  "Solvay": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186289,
-    "update_time": 1776186289,
-    "_id": "Solvay"
-  },
-  "Wyeth-Ayerst": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186290,
-    "update_time": 1776186290,
-    "_id": "Wyeth-Ayerst"
-  },
-  "Eli Lilly": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186290,
-    "update_time": 1776186290,
-    "_id": "Eli Lilly"
-  },
-  "Schering Plough": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186290,
-    "update_time": 1776186290,
-    "_id": "Schering Plough"
-  },
-  "University Of Michigan": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186290,
-    "update_time": 1776186290,
-    "_id": "University Of Michigan"
-  },
-  "University Of Maryland School Of Medicine": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186290,
-    "update_time": 1776186290,
-    "_id": "University Of Maryland School Of Medicine"
-  },
-  "State University Of New York": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186290,
-    "update_time": 1776186290,
-    "_id": "State University Of New York"
-  },
-  "University Of Mississippi Medical Center": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186291,
-    "update_time": 1776186291,
-    "_id": "University Of Mississippi Medical Center"
-  },
-  "Bayer": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186291,
-    "update_time": 1776186291,
-    "_id": "Bayer"
-  },
-  "Phoenix University School Of Optometry": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186291,
-    "update_time": 1776186291,
-    "_id": "Phoenix University School Of Optometry"
-  },
-  "New York University": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186291,
-    "update_time": 1776186291,
-    "_id": "New York University"
-  },
-  "National Heart Lung And Blood Institute": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186291,
-    "update_time": 1776186291,
-    "_id": "National Heart Lung And Blood Institute"
-  },
-  "American Blood Institute": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3",
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 2,
-    "create_time": 1776186291,
-    "update_time": 1776186291,
-    "_id": "American Blood Institute"
-  },
-  "Institute For Diabetes And Digestive And Kidney Diseases": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186292,
-    "update_time": 1776186292,
-    "_id": "Institute For Diabetes And Digestive And Kidney Diseases"
-  },
-  "Dr. Oparil": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186292,
-    "update_time": 1776186292,
-    "_id": "Dr. Oparil"
-  },
-  "Dr. Black": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186292,
-    "update_time": 1776186292,
-    "_id": "Dr. Black"
-  },
-  "Stephen Havas": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186292,
-    "update_time": 1776186292,
-    "_id": "Stephen Havas"
-  },
-  "Dr. Sowers": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186292,
-    "update_time": 1776186292,
-    "_id": "Dr. Sowers"
-  },
-  "Lynn Kirby": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186293,
-    "update_time": 1776186293,
-    "_id": "Lynn Kirby"
-  },
-  "Dr. Wright": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186293,
-    "update_time": 1776186293,
-    "_id": "Dr. Wright"
-  },
-  "Phoenix Stuart Linas": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186293,
-    "update_time": 1776186293,
-    "_id": "Phoenix Stuart Linas"
-  },
-  "M. Manger": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186293,
-    "update_time": 1776186293,
-    "_id": "M. Manger"
-  },
-  "Edwin C. Bayer": {
-    "chunk_ids": [
-      "chunk-05d799864c85bf02a8010b7a15a569f3"
-    ],
-    "count": 1,
-    "create_time": 1776186293,
-    "update_time": 1776186293,
-    "_id": "Edwin C. Bayer"
-  },
-  "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e",
-      "chunk-0aa33a009726cb2a0f199d167ecc8006"
-    ],
-    "count": 2,
-    "create_time": 1776186294,
-    "update_time": 1776186294,
-    "_id": "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
-  },
-  "High Blood Pressure": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e",
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
-    ],
-    "count": 2,
-    "create_time": 1776186294,
-    "update_time": 1776186294,
-    "_id": "High Blood Pressure"
-  },
-  "Ambulatory Blood Pressure Monitoring": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186294,
-    "update_time": 1776186294,
-    "_id": "Ambulatory Blood Pressure Monitoring"
-  },
-  "Cardiovascular Risk Factors": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186294,
-    "update_time": 1776186294,
-    "_id": "Cardiovascular Risk Factors"
-  },
-  "Lifestyle Modifications To Prevent And Manage Hypertension": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186355,
-    "update_time": 1776186355,
-    "_id": "Lifestyle Modifications To Prevent And Manage Hypertension"
-  },
-  "Screening Tests For Identifiable Hypertension": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186355,
-    "update_time": 1776186355,
-    "_id": "Screening Tests For Identifiable Hypertension"
-  },
-  "Oral Antihypertensive Drugs": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186355,
-    "update_time": 1776186355,
-    "_id": "Oral Antihypertensive Drugs"
-  },
-  "Combination Drugs For Hypertension": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186355,
-    "update_time": 1776186355,
-    "_id": "Combination Drugs For Hypertension"
-  },
-  "The 95th Percentile Of Blood Pressure": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186355,
-    "update_time": 1776186355,
-    "_id": "The 95th Percentile Of Blood Pressure"
-  },
-  "Parenteral Drugs For Treatment Of Hypertensive Emergencies": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e",
-      "chunk-0aa33a009726cb2a0f199d167ecc8006"
-    ],
-    "count": 2,
-    "create_time": 1776186356,
-    "update_time": 1776186356,
-    "_id": "Parenteral Drugs For Treatment Of Hypertensive Emergencies"
-  },
-  "National Health And Nutrition Examination Survey III": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186356,
-    "update_time": 1776186356,
-    "_id": "National Health And Nutrition Examination Survey III"
-  },
-  "Trends In Awareness, Treatment, And Control Of High Blood Pressure, 1976–2000": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186356,
-    "update_time": 1776186356,
-    "_id": "Trends In Awareness, Treatment, And Control Of High Blood Pressure, 1976–2000"
-  },
-  "Estimated Prevalence Of The Metabolic Syndrome Using The Adult Treatment Panel III Definition Among Normal Weight, Overweight, And Obese Men And Women In The National Health And Nutrition Examination Survey III": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186356,
-    "update_time": 1776186356,
-    "_id": "Estimated Prevalence Of The Metabolic Syndrome Using The Adult Treatment Panel III Definition Among Normal Weight, Overweight, And Obese Men And Women In The National Health And Nutrition Examination Survey III"
-  },
-  "Relative 10-Year Risk For Diabetes, Hypertension, Heart Disease, And Stroke Over The Next Decade Among Men Initially Free Of Disease Stratified By Baseline Body Mass Index": {
-    "chunk_ids": [
-      "chunk-089153c0a9e43f431c755dfee9cbc20e"
-    ],
-    "count": 1,
-    "create_time": 1776186356,
-    "update_time": 1776186356,
-    "_id": "Relative 10-Year Risk For Diabetes, Hypertension, Heart Disease, And Stroke Over The Next Decade Among Men Initially Free Of Disease Stratified By Baseline Body Mass Index"
-  },
-  "Patient Evaluation": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186356,
-    "update_time": 1776186356,
-    "_id": "Patient Evaluation"
-  },
-  "Laboratory Tests And Other Diagnostic Procedures": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186357,
-    "update_time": 1776186357,
-    "_id": "Laboratory Tests And Other Diagnostic Procedures"
-  },
-  "Genetics Of Hypertension": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186357,
-    "update_time": 1776186357,
-    "_id": "Genetics Of Hypertension"
-  },
-  "Treatment": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186357,
-    "update_time": 1776186357,
-    "_id": "Treatment"
-  },
-  "Blood Pressure Control Rates": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186357,
-    "update_time": 1776186357,
-    "_id": "Blood Pressure Control Rates"
-  },
-  "Goals Of Therapy": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186357,
-    "update_time": 1776186357,
-    "_id": "Goals Of Therapy"
-  },
-  "Lifestyle Modifications": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459",
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
-    ],
-    "count": 2,
-    "create_time": 1776186358,
-    "update_time": 1776186358,
-    "_id": "Lifestyle Modifications"
-  },
-  "Pharmacologic Treatment": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186358,
-    "update_time": 1776186358,
-    "_id": "Pharmacologic Treatment"
-  },
-  "Thiazide-Type Diuretics": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186358,
-    "update_time": 1776186358,
-    "_id": "Thiazide-Type Diuretics"
-  },
-  "Special Situations In Hypertension Management": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186358,
-    "update_time": 1776186358,
-    "_id": "Special Situations In Hypertension Management"
-  },
-  "Ischemic Heart Disease": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186358,
-    "update_time": 1776186358,
-    "_id": "Ischemic Heart Disease"
-  },
-  "Heart Failure": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186358,
-    "update_time": 1776186358,
-    "_id": "Heart Failure"
-  },
-  "Diabetes And Hypertension": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186359,
-    "update_time": 1776186359,
-    "_id": "Diabetes And Hypertension"
-  },
-  "Chronic Kidney Disease": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186359,
-    "update_time": 1776186359,
-    "_id": "Chronic Kidney Disease"
-  },
-  "Patients With Cerebrovascular Disease": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186359,
-    "update_time": 1776186359,
-    "_id": "Patients With Cerebrovascular Disease"
-  },
-  "Age Trends": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186359,
-    "update_time": 1776186359,
-    "_id": "Age Trends"
-  },
-  "Clinical Impact": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459"
-    ],
-    "count": 1,
-    "create_time": 1776186359,
-    "update_time": 1776186359,
-    "_id": "Clinical Impact"
-  },
-  "Lipids": {
-    "chunk_ids": [
-      "chunk-2c68597b34118931dc76621ef26e8459",
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
-    ],
-    "count": 2,
-    "create_time": 1776186360,
-    "update_time": 1776186360,
-    "_id": "Lipids"
-  },
-  "Blood Pressure (BP)": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186360,
-    "update_time": 1776186360,
-    "_id": "Blood Pressure (BP)"
-  },
-  "National Health and Nutrition Examination Survey (NHANES)": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186360,
-    "update_time": 1776186360,
-    "_id": "National Health and Nutrition Examination Survey (NHANES)"
-  },
-  "World Health Organization (WHO)": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186360,
-    "update_time": 1776186360,
-    "_id": "World Health Organization (WHO)"
-  },
-  "Stroke": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186360,
-    "update_time": 1776186360,
-    "_id": "Stroke"
-  },
-  "Ischemic Heart Disease (IHD)": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186361,
-    "update_time": 1776186361,
-    "_id": "Ischemic Heart Disease (IHD)"
-  },
-  "World Morbidity and Mortality attributed to hypertension": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186361,
-    "update_time": 1776186361,
-    "_id": "World Morbidity and Mortality attributed to hypertension"
-  },
-  "Table 1": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186361,
-    "update_time": 1776186361,
-    "_id": "Table 1"
-  },
-  "140/90 mmHg": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154",
-      "chunk-52224da6ee438f52167a3af07f7ae220"
-    ],
-    "count": 2,
-    "create_time": 1776186361,
-    "update_time": 1776186361,
-    "_id": "140/90 mmHg"
-  },
-  "115 mmHg SBP": {
-    "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
-    ],
-    "count": 1,
-    "create_time": 1776186361,
-    "update_time": 1776186361,
-    "_id": "115 mmHg SBP"
-  },
-  "The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure": {
-    "chunk_ids": [
-      "chunk-0aa33a009726cb2a0f199d167ecc8006"
-    ],
-    "count": 1,
-    "create_time": 1776186361,
-    "update_time": 1776186361,
-    "_id": "The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
-  },
-  "Dr. Aram Chobanian": {
-    "chunk_ids": [
-      "chunk-0aa33a009726cb2a0f199d167ecc8006",
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
-    ],
-    "count": 2,
-    "create_time": 1776186362,
-    "update_time": 1776186362,
-    "_id": "Dr. Aram Chobanian"
-  },
-  "Algorithm For Treatment Of Hypertension": {
-    "chunk_ids": [
-      "chunk-0aa33a009726cb2a0f199d167ecc8006"
-    ],
-    "count": 1,
-    "create_time": 1776186362,
-    "update_time": 1776186362,
-    "_id": "Algorithm For Treatment Of Hypertension"
-  },
-  "DASH Eating Committee": {
-    "chunk_ids": [
-      "chunk-0aa33a009726cb2a0f199d167ecc8006",
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
-    ],
-    "count": 2,
-    "create_time": 1776186362,
-    "update_time": 1776186362,
-    "_id": "DASH Eating Committee"
-  },
-  "Bethesda": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186362,
-    "update_time": 1776186362,
-    "_id": "Bethesda"
-  },
-  "Lee Shaughnessy": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186362,
-    "update_time": 1776186362,
-    "_id": "Lee Shaughnessy"
-  },
-  "Podiatric Medical Association": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186363,
-    "update_time": 1776186363,
-    "_id": "Podiatric Medical Association"
-  },
-  "Veterans Affairs": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186363,
-    "update_time": 1776186363,
-    "_id": "Veterans Affairs"
-  },
-  "Mayo Clinic": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186363,
-    "update_time": 1776186363,
-    "_id": "Mayo Clinic"
-  },
-  "Memphis": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186363,
-    "update_time": 1776186363,
-    "_id": "Memphis"
-  },
-  "Mark J. Rochester": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186363,
-    "update_time": 1776186363,
-    "_id": "Mark J. Rochester"
-  },
-  "David B. Snyder": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186364,
-    "update_time": 1776186364,
-    "_id": "David B. Snyder"
-  },
-  "Cziraky": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186364,
-    "update_time": 1776186364,
-    "_id": "Cziraky"
-  },
-  "Health Core, Inc.": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186364,
-    "update_time": 1776186364,
-    "_id": "Health Core, Inc."
-  },
-  "Newark": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186364,
-    "update_time": 1776186364,
-    "_id": "Newark"
-  },
-  "John J. Davis": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186364,
-    "update_time": 1776186364,
-    "_id": "John J. Davis"
-  },
-  "American Rockville": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186364,
-    "update_time": 1776186364,
-    "_id": "American Rockville"
-  },
-  "James R. Sowers": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186365,
-    "update_time": 1776186365,
-    "_id": "James R. Sowers"
-  },
-  "Academy of Physician Assistants": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186365,
-    "update_time": 1776186365,
-    "_id": "Academy of Physician Assistants"
-  },
-  "SUNY Health Science Center": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186365,
-    "update_time": 1776186365,
-    "_id": "SUNY Health Science Center"
-  },
-  "Keith Copelin Ferdinand": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186365,
-    "update_time": 1776186365,
-    "_id": "Keith Copelin Ferdinand"
-  },
-  "Brooklyn": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186365,
-    "update_time": 1776186365,
-    "_id": "Brooklyn"
-  },
-  "Leonard M.": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186365,
-    "update_time": 1776186365,
-    "_id": "Leonard M."
-  },
-  "Heartbeats Life Center": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186366,
-    "update_time": 1776186366,
-    "_id": "Heartbeats Life Center"
-  },
-  "Steiner": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186366,
-    "update_time": 1776186366,
-    "_id": "Steiner"
-  },
-  "Eye Group": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186366,
-    "update_time": 1776186366,
-    "_id": "Eye Group"
-  },
-  "Oakhurst": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186366,
-    "update_time": 1776186366,
-    "_id": "Oakhurst"
-  },
-  "Ray W. Gifford Jr.": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186366,
-    "update_time": 1776186366,
-    "_id": "Ray W. Gifford Jr."
-  },
-  "Cleveland": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186366,
-    "update_time": 1776186366,
-    "_id": "Cleveland"
-  },
-  "Procter and Clinic Foundation": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186367,
-    "update_time": 1776186367,
-    "_id": "Procter and Clinic Foundation"
-  },
-  "Fountain Hills": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186367,
-    "update_time": 1776186367,
-    "_id": "Fountain Hills"
-  },
-  "Gamble": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186367,
-    "update_time": 1776186367,
-    "_id": "Gamble"
-  },
-  "Rita D. Strickland": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186367,
-    "update_time": 1776186367,
-    "_id": "Rita D. Strickland"
-  },
-  "Michael Glick": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186368,
-    "update_time": 1776186368,
-    "_id": "Michael Glick"
-  },
-  "New Jersey Dental": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186368,
-    "update_time": 1776186368,
-    "_id": "New Jersey Dental"
-  },
-  "Ed.D.": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186368,
-    "update_time": 1776186368,
-    "_id": "Ed.D."
-  },
-  "R.N.": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186368,
-    "update_time": 1776186368,
-    "_id": "R.N."
-  },
-  "New York Institute of Technology": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186368,
-    "update_time": 1776186368,
-    "_id": "New York Institute of Technology"
-  },
-  "Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186368,
-    "update_time": 1776186368,
-    "_id": "Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure"
-  },
-  "Springfield Gardens": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
-    "count": 1,
-    "create_time": 1776186369,
-    "update_time": 1776186369,
-    "_id": "Springfield Gardens"
-  },
-  "Carlos Vallbona": {
-    "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
-    ],
     "count": 1,
-    "create_time": 1776186369,
-    "update_time": 1776186369,
-    "_id": "Carlos Vallbona"
+    "create_time": 1776188621,
+    "update_time": 1776188621,
+    "_id": "Log (Blood Pressure - 75)"
   },
-  "Vasilios Papademetriou": {
+  "Men 40-59": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-5bb2a0ef3170a42757aa612ccebe04e1"
     ],
     "count": 1,
-    "create_time": 1776186369,
-    "update_time": 1776186369,
-    "_id": "Vasilios Papademetriou"
+    "create_time": 1776188621,
+    "update_time": 1776188621,
+    "_id": "Men 40-59"
   },
-  "Baylor College of Medicine": {
+  "Cholesterol": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186369,
-    "update_time": 1776186369,
-    "_id": "Baylor College of Medicine"
+    "create_time": 1776188621,
+    "update_time": 1776188621,
+    "_id": "Cholesterol"
   },
-  "Houston": {
+  "Risk": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186369,
-    "update_time": 1776186369,
-    "_id": "Houston"
+    "create_time": 1776188621,
+    "update_time": 1776188621,
+    "_id": "Risk"
   },
-  "Howard S. Weiss": {
+  "Bivariate Normal Model": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186369,
-    "update_time": 1776186369,
-    "_id": "Howard S. Weiss"
+    "create_time": 1776188622,
+    "update_time": 1776188622,
+    "_id": "Bivariate Normal Model"
   },
-  "Washington": {
+  "Equation 7": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186370,
-    "update_time": 1776186370,
-    "_id": "Washington"
+    "create_time": 1776188622,
+    "update_time": 1776188622,
+    "_id": "Equation 7"
   },
-  "Thomas G. Pickering": {
+  "Expected Number Of CHD Cases": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186370,
-    "update_time": 1776186370,
-    "_id": "Thomas G. Pickering"
+    "create_time": 1776188622,
+    "update_time": 1776188622,
+    "_id": "Expected Number Of CHD Cases"
   },
-  "Georgetown University Medical Center": {
+  "Percentage Change": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186370,
-    "update_time": 1776186370,
-    "_id": "Georgetown University Medical Center"
+    "create_time": 1776188622,
+    "update_time": 1776188622,
+    "_id": "Percentage Change"
   },
-  "Mount Sinai Medical Center": {
+  "Absolute Change": {
     "chunk_ids": [
-      "chunk-2216f17dbf668a5093b180bdf7caa2d5"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186370,
-    "update_time": 1776186370,
-    "_id": "Mount Sinai Medical Center"
+    "create_time": 1776188622,
+    "update_time": 1776188622,
+    "_id": "Absolute Change"
   },
-  "The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)": {
+  "X1": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186371,
-    "update_time": 1776186371,
-    "_id": "The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)"
+    "create_time": 1776188622,
+    "update_time": 1776188622,
+    "_id": "X1"
   },
-  "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)": {
+  "X2": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186371,
-    "update_time": 1776186371,
-    "_id": "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)"
+    "create_time": 1776188623,
+    "update_time": 1776188623,
+    "_id": "X2"
   },
-  "National Heart, Lung, And Blood Institute (NHLBI)": {
+  "L-Year Risk": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186371,
-    "update_time": 1776186371,
-    "_id": "National Heart, Lung, And Blood Institute (NHLBI)"
+    "create_time": 1776188623,
+    "update_time": 1776188623,
+    "_id": "L-Year Risk"
   },
-  "National High Blood Pressure Education Program (NHBPEP) Coordinating Committee": {
+  "mg/100 cc": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186371,
-    "update_time": 1776186371,
-    "_id": "National High Blood Pressure Education Program (NHBPEP) Coordinating Committee"
+    "create_time": 1776188623,
+    "update_time": 1776188623,
+    "_id": "mg/100 cc"
   },
-  "JNC 7 Guidelines": {
+  "mm Hg": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-cc71e0306c5c259756e6206620a858b1"
     ],
     "count": 1,
-    "create_time": 1776186371,
-    "update_time": 1776186371,
-    "_id": "JNC 7 Guidelines"
+    "create_time": 1776188623,
+    "update_time": 1776188623,
+    "_id": "mm Hg"
   },
-  "Goal Blood Pressure": {
+  "Log Normal Distribution": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 1,
-    "create_time": 1776186372,
-    "update_time": 1776186372,
-    "_id": "Goal Blood Pressure"
+    "create_time": 1776188624,
+    "update_time": 1776188624,
+    "_id": "Log Normal Distribution"
   },
-  "Systolic Blood Pressure (SBP)": {
+  "Risk Function P(Y)": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 1,
-    "create_time": 1776186374,
-    "update_time": 1776186374,
-    "_id": "Systolic Blood Pressure (SBP)"
+    "create_time": 1776188624,
+    "update_time": 1776188624,
+    "_id": "Risk Function P(Y)"
   },
-  "Diastolic Blood Pressure (DBP)": {
+  "Bivariate Normal Frequency Function": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 1,
-    "create_time": 1776186374,
-    "update_time": 1776186374,
-    "_id": "Diastolic Blood Pressure (DBP)"
+    "create_time": 1776188624,
+    "update_time": 1776188624,
+    "_id": "Bivariate Normal Frequency Function"
   },
-  "Primary Care Clinicians": {
+  "Framingham": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 1,
-    "create_time": 1776186375,
-    "update_time": 1776186375,
-    "_id": "Primary Care Clinicians"
+    "create_time": 1776188624,
+    "update_time": 1776188624,
+    "_id": "Framingham"
   },
-  "Public Health Workers": {
+  "Proportion P": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 1,
-    "create_time": 1776186375,
-    "update_time": 1776186375,
-    "_id": "Public Health Workers"
+    "create_time": 1776188624,
+    "update_time": 1776188624,
+    "_id": "Proportion P"
   },
-  "Anti-Hypertensive Drug Classes": {
+  "Log10 Blood Pressure Adjusted": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-baa95425f9536fc6e61a6ea35b2d5490"
     ],
     "count": 1,
-    "create_time": 1776186375,
-    "update_time": 1776186375,
-    "_id": "Anti-Hypertensive Drug Classes"
+    "create_time": 1776188624,
+    "update_time": 1776188624,
+    "_id": "Log10 Blood Pressure Adjusted"
   },
-  "Barbara M. Alving, M.D.": {
+  "Jerome Cornfield": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-2a698820f9767612065e4d08199917ba"
     ],
     "count": 1,
-    "create_time": 1776186375,
-    "update_time": 1776186375,
-    "_id": "Barbara M. Alving, M.D."
+    "create_time": 1776188625,
+    "update_time": 1776188625,
+    "_id": "Jerome Cornfield"
   },
   "Coronary Heart Disease": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-2a698820f9767612065e4d08199917ba",
+      "chunk-1402c215c7fd318145880a62d19e2b3a",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
+    ],
+    "count": 3,
+    "update_time": 1776190136,
+    "_id": "Coronary Heart Disease"
+  },
+  "Discriminant Function Analysis": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba"
     ],
     "count": 1,
-    "create_time": 1776186375,
-    "update_time": 1776186375,
-    "_id": "Coronary Heart Disease"
+    "create_time": 1776188625,
+    "update_time": 1776188625,
+    "_id": "Discriminant Function Analysis"
+  },
+  "Framingham, Massachusetts": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba"
+    ],
+    "count": 1,
+    "create_time": 1776188625,
+    "update_time": 1776188625,
+    "_id": "Framingham, Massachusetts"
+  },
+  "National Heart Institute": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba"
+    ],
+    "count": 1,
+    "create_time": 1776188625,
+    "update_time": 1776188625,
+    "_id": "National Heart Institute"
+  },
+  "Bethesda, Maryland": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba"
+    ],
+    "count": 1,
+    "create_time": 1776188625,
+    "update_time": 1776188625,
+    "_id": "Bethesda, Maryland"
+  },
+  "Federation of American Societies for Experimental Biology": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba"
+    ],
+    "count": 1,
+    "create_time": 1776188626,
+    "update_time": 1776188626,
+    "_id": "Federation of American Societies for Experimental Biology"
+  },
+  "Washington, D.C.": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba"
+    ],
+    "count": 1,
+    "create_time": 1776188626,
+    "update_time": 1776188626,
+    "_id": "Washington, D.C."
+  },
+  "Federation Proceedings": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba"
+    ],
+    "count": 1,
+    "create_time": 1776188626,
+    "update_time": 1776188626,
+    "_id": "Federation Proceedings"
+  },
+  "Myocardial Infarction": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba",
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
+    ],
+    "count": 2,
+    "update_time": 1776190057,
+    "_id": "Myocardial Infarction"
+  },
+  "Angina Pectoris": {
+    "chunk_ids": [
+      "chunk-2a698820f9767612065e4d08199917ba",
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-0a8a07023292447dd472b098aca92a15",
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 4,
+    "update_time": 1776190050,
+    "_id": "Angina Pectoris"
+  },
+  "6-Year Risk": {
+    "chunk_ids": [
+      "chunk-cc71e0306c5c259756e6206620a858b1"
+    ],
+    "count": 1,
+    "create_time": 1776188631,
+    "update_time": 1776188631,
+    "_id": "6-Year Risk"
+  },
+  "Calcium Antagonists": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0",
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 4,
+    "create_time": 1776190050,
+    "update_time": 1776190050,
+    "_id": "Calcium Antagonists"
+  },
+  "Dihydropyridine": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190050,
+    "update_time": 1776190050,
+    "_id": "Dihydropyridine"
+  },
+  "Nondihydropyridine": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190050,
+    "update_time": 1776190050,
+    "_id": "Nondihydropyridine"
+  },
+  "Hypertension": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0",
+      "chunk-1402c215c7fd318145880a62d19e2b3a",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca",
+      "chunk-0a8a07023292447dd472b098aca92a15",
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 7,
+    "create_time": 1776190050,
+    "update_time": 1776190050,
+    "_id": "Hypertension"
+  },
+  "Coronary Artery Disease (CAD)": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190050,
+    "update_time": 1776190050,
+    "_id": "Coronary Artery Disease (CAD)"
+  },
+  "Obesity": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 2,
+    "create_time": 1776190050,
+    "update_time": 1776190050,
+    "_id": "Obesity"
+  },
+  "Beta-blockers": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190050,
+    "update_time": 1776190050,
+    "_id": "Beta-blockers"
+  },
+  "Verapamil": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190052,
+    "update_time": 1776190052,
+    "_id": "Verapamil"
+  },
+  "Diltiazem": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190052,
+    "update_time": 1776190052,
+    "_id": "Diltiazem"
+  },
+  "Fibrate Gemfibrozil": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190053,
+    "update_time": 1776190053,
+    "_id": "Fibrate Gemfibrozil"
+  },
+  "World Health Organisation": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-1402c215c7fd318145880a62d19e2b3a",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
+    ],
+    "count": 4,
+    "create_time": 1776190053,
+    "update_time": 1776190053,
+    "_id": "World Health Organisation"
+  },
+  "Mini-Invasive Heart": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190053,
+    "update_time": 1776190053,
+    "_id": "Mini-Invasive Heart"
+  },
+  "Medicare": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190053,
+    "update_time": 1776190053,
+    "_id": "Medicare"
+  },
+  "Diabetes Mellitus": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
+    ],
+    "count": 2,
+    "create_time": 1776190053,
+    "update_time": 1776190053,
+    "_id": "Diabetes Mellitus"
+  },
+  "Hyperlipidemia": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 2,
+    "create_time": 1776190054,
+    "update_time": 1776190054,
+    "_id": "Hyperlipidemia"
+  },
+  "Cigarette Smoking": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190054,
+    "update_time": 1776190054,
+    "_id": "Cigarette Smoking"
+  },
+  "HDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf",
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 2,
+    "create_time": 1776190054,
+    "update_time": 1776190054,
+    "_id": "HDL Cholesterol"
+  },
+  "Triglycerides": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190054,
+    "update_time": 1776190054,
+    "_id": "Triglycerides"
+  },
+  "Systemic Vascular Resistance": {
+    "chunk_ids": [
+      "chunk-5d706ae189b3bf78b45c9dc1e1b73ebf"
+    ],
+    "count": 1,
+    "create_time": 1776190054,
+    "update_time": 1776190054,
+    "_id": "Systemic Vascular Resistance"
+  },
+  "Diuretics": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 2,
+    "create_time": 1776190055,
+    "update_time": 1776190055,
+    "_id": "Diuretics"
+  },
+  "Nitrates": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
+    ],
+    "count": 1,
+    "create_time": 1776190055,
+    "update_time": 1776190055,
+    "_id": "Nitrates"
+  },
+  "Positive Inotropic Agents": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
+    ],
+    "count": 1,
+    "create_time": 1776190055,
+    "update_time": 1776190055,
+    "_id": "Positive Inotropic Agents"
+  },
+  "Dobutamine": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 2,
+    "create_time": 1776190055,
+    "update_time": 1776190055,
+    "_id": "Dobutamine"
+  },
+  "Dopamine": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 2,
+    "create_time": 1776190055,
+    "update_time": 1776190055,
+    "_id": "Dopamine"
+  },
+  "Swan-Ganz Pulmonary Artery Catheter": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 2,
+    "create_time": 1776190056,
+    "update_time": 1776190056,
+    "_id": "Swan-Ganz Pulmonary Artery Catheter"
+  },
+  "Aspirin": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d",
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0",
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 5,
+    "create_time": 1776190056,
+    "update_time": 1776190056,
+    "_id": "Aspirin"
+  },
+  "Beta-Adrenergic Blockers": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 2,
+    "create_time": 1776190056,
+    "update_time": 1776190056,
+    "_id": "Beta-Adrenergic Blockers"
+  },
+  "Intravenous Nitroglycerin": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
+    ],
+    "count": 1,
+    "create_time": 1776190056,
+    "update_time": 1776190056,
+    "_id": "Intravenous Nitroglycerin"
+  },
+  "Heparin": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d",
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 3,
+    "create_time": 1776190056,
+    "update_time": 1776190056,
+    "_id": "Heparin"
+  },
+  "Furosemide": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
+    ],
+    "count": 1,
+    "create_time": 1776190056,
+    "update_time": 1776190056,
+    "_id": "Furosemide"
+  },
+  "Oxygen": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 2,
+    "create_time": 1776190057,
+    "update_time": 1776190057,
+    "_id": "Oxygen"
+  },
+  "Analgesics": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
+    ],
+    "count": 1,
+    "create_time": 1776190057,
+    "update_time": 1776190057,
+    "_id": "Analgesics"
+  },
+  "ACE Inhibitors": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 2,
+    "create_time": 1776190057,
+    "update_time": 1776190057,
+    "_id": "ACE Inhibitors"
+  },
+  "Carvedilol": {
+    "chunk_ids": [
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
+    ],
+    "count": 1,
+    "create_time": 1776190057,
+    "update_time": 1776190057,
+    "_id": "Carvedilol"
   },
   "Congestive Heart Failure": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
     ],
     "count": 1,
-    "create_time": 1776186436,
-    "update_time": 1776186436,
+    "create_time": 1776190057,
+    "update_time": 1776190057,
     "_id": "Congestive Heart Failure"
   },
-  "End-Stage Renal Disease (ESRD)": {
+  "Left Ventricular Dysfunction": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
     ],
     "count": 1,
-    "create_time": 1776186436,
-    "update_time": 1776186436,
-    "_id": "End-Stage Renal Disease (ESRD)"
+    "create_time": 1776190058,
+    "update_time": 1776190058,
+    "_id": "Left Ventricular Dysfunction"
   },
-  "Age-Adjusted Mortality Rates": {
+  "Angina": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-66cab5fae30b68ce441cbeaea72167d4",
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
     ],
-    "count": 1,
-    "create_time": 1776186436,
-    "update_time": 1776186436,
-    "_id": "Age-Adjusted Mortality Rates"
+    "count": 3,
+    "create_time": 1776190058,
+    "update_time": 1776190058,
+    "_id": "Angina"
   },
-  "Prevalence": {
+  "Cardiovascular Disease": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
     ],
-    "count": 1,
-    "create_time": 1776186436,
-    "update_time": 1776186436,
-    "_id": "Prevalence"
+    "count": 2,
+    "create_time": 1776190058,
+    "update_time": 1776190058,
+    "_id": "Cardiovascular Disease"
   },
-  "Figure 3": {
+  "Coronary Artery Disease": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
     ],
-    "count": 1,
-    "create_time": 1776186436,
-    "update_time": 1776186436,
-    "_id": "Figure 3"
+    "count": 2,
+    "create_time": 1776190058,
+    "update_time": 1776190058,
+    "_id": "Coronary Artery Disease"
   },
-  "Figure 4": {
+  "Mauritius": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6"
     ],
     "count": 1,
-    "create_time": 1776186436,
-    "update_time": 1776186436,
-    "_id": "Figure 4"
+    "create_time": 1776190059,
+    "update_time": 1776190059,
+    "_id": "Mauritius"
   },
-  "Clinical Management Of The Metabolic Syndrome": {
+  "Primary Care Physician": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-a512cd818fc7fc052ba42676e3dbd8a6",
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-725fd25b2b914218473f4027eb936a0b"
     ],
-    "count": 1,
-    "create_time": 1776186437,
-    "update_time": 1776186437,
-    "_id": "Clinical Management Of The Metabolic Syndrome"
+    "count": 3,
+    "create_time": 1776190059,
+    "update_time": 1776190059,
+    "_id": "Primary Care Physician"
   },
-  "Overweight And Obesity": {
+  "Ministry Of Health And Quality Of Life/Mauritius Institute Of Health": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
     ],
-    "count": 1,
-    "create_time": 1776186437,
-    "update_time": 1776186437,
-    "_id": "Overweight And Obesity"
+    "count": 2,
+    "create_time": 1776190059,
+    "update_time": 1776190059,
+    "_id": "Ministry Of Health And Quality Of Life/Mauritius Institute Of Health"
   },
-  "Left Ventricular Hypertrophy": {
+  "Worsening Anginal Symptoms": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186437,
-    "update_time": 1776186437,
-    "_id": "Left Ventricular Hypertrophy"
+    "create_time": 1776190059,
+    "update_time": 1776190059,
+    "_id": "Worsening Anginal Symptoms"
   },
-  "Hypertension In Older People": {
+  "Acute Coronary Syndrome": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0",
+      "chunk-725fd25b2b914218473f4027eb936a0b"
     ],
-    "count": 1,
-    "create_time": 1776186437,
-    "update_time": 1776186437,
-    "_id": "Hypertension In Older People"
+    "count": 3,
+    "create_time": 1776190059,
+    "update_time": 1776190059,
+    "_id": "Acute Coronary Syndrome"
   },
-  "Orthostatic Hypotension": {
+  "Cardiologist": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-725fd25b2b914218473f4027eb936a0b"
     ],
-    "count": 1,
-    "create_time": 1776186437,
-    "update_time": 1776186437,
-    "_id": "Orthostatic Hypotension"
+    "count": 2,
+    "create_time": 1776190059,
+    "update_time": 1776190059,
+    "_id": "Cardiologist"
   },
-  "Resistant Hypertension": {
+  "Haemodynamic Instability": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186438,
-    "update_time": 1776186438,
-    "_id": "Resistant Hypertension"
+    "create_time": 1776190060,
+    "update_time": 1776190060,
+    "_id": "Haemodynamic Instability"
   },
-  "Cognitive Function And Dementia": {
+  "Pulmonary Congestion": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
     ],
-    "count": 1,
-    "create_time": 1776186438,
-    "update_time": 1776186438,
-    "_id": "Cognitive Function And Dementia"
+    "count": 2,
+    "create_time": 1776190060,
+    "update_time": 1776190060,
+    "_id": "Pulmonary Congestion"
   },
-  "Hypertension In Women": {
+  "Ischaemic Mitral Regurgitation": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186438,
-    "update_time": 1776186438,
-    "_id": "Hypertension In Women"
+    "create_time": 1776190060,
+    "update_time": 1776190060,
+    "_id": "Ischaemic Mitral Regurgitation"
   },
-  "Hypertension In Children And Adolescents": {
+  "Acute MI": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186438,
-    "update_time": 1776186438,
-    "_id": "Hypertension In Children And Adolescents"
+    "create_time": 1776190060,
+    "update_time": 1776190060,
+    "_id": "Acute MI"
   },
-  "Hypertensive Crises: Emergencies And Urgencies": {
+  "Electrocardiogram": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186438,
-    "update_time": 1776186438,
-    "_id": "Hypertensive Crises: Emergencies And Urgencies"
+    "create_time": 1776190060,
+    "update_time": 1776190060,
+    "_id": "Electrocardiogram"
   },
-  "Erectile Dysfunction And Hypertension": {
+  "ST-T-Q Wave Changes": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186438,
-    "update_time": 1776186438,
-    "_id": "Erectile Dysfunction And Hypertension"
+    "create_time": 1776190060,
+    "update_time": 1776190060,
+    "_id": "ST-T-Q Wave Changes"
   },
-  "Urinary Outflow Obstruction": {
+  "Left Bundle Branch Block": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96",
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
     ],
-    "count": 1,
-    "create_time": 1776186439,
-    "update_time": 1776186439,
-    "_id": "Urinary Outflow Obstruction"
+    "count": 2,
+    "create_time": 1776190061,
+    "update_time": 1776190061,
+    "_id": "Left Bundle Branch Block"
   },
-  "Patients Undergoing Surgery": {
+  "Reperfusion Therapy": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186439,
-    "update_time": 1776186439,
-    "_id": "Patients Undergoing Surgery"
+    "create_time": 1776190061,
+    "update_time": 1776190061,
+    "_id": "Reperfusion Therapy"
   },
-  "Dental Issues In Hypertensive Individuals": {
+  "Fibrinolytic Therapy": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186439,
-    "update_time": 1776186439,
-    "_id": "Dental Issues In Hypertensive Individuals"
+    "create_time": 1776190061,
+    "update_time": 1776190061,
+    "_id": "Fibrinolytic Therapy"
   },
-  "Obstructive Sleep Apnea": {
+  "Thrombolytic Therapy": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186439,
-    "update_time": 1776186439,
-    "_id": "Obstructive Sleep Apnea"
+    "create_time": 1776190061,
+    "update_time": 1776190061,
+    "_id": "Thrombolytic Therapy"
   },
-  "Hypertension And The Eye": {
+  "Door-To-Needle Time": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186439,
-    "update_time": 1776186439,
-    "_id": "Hypertension And The Eye"
+    "create_time": 1776190061,
+    "update_time": 1776190061,
+    "_id": "Door-To-Needle Time"
   },
-  "Renal Transplantation": {
+  "Cardiacogenic Shock": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186439,
-    "update_time": 1776186439,
-    "_id": "Renal Transplantation"
+    "create_time": 1776190061,
+    "update_time": 1776190061,
+    "_id": "Cardiacogenic Shock"
   },
-  "Patients With Renovascular Disease": {
+  "Systolic Murmurs": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186440,
-    "update_time": 1776186440,
-    "_id": "Patients With Renovascular Disease"
+    "create_time": 1776190062,
+    "update_time": 1776190062,
+    "_id": "Systolic Murmurs"
   },
-  "Drugs And Other Agents Affecting Blood Pressure": {
+  "Papillary Muscle Rupture": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-41d9481df9dca8a996f49a342af0df96"
     ],
     "count": 1,
-    "create_time": 1776186440,
-    "update_time": 1776186440,
-    "_id": "Drugs And Other Agents Affecting Blood Pressure"
+    "create_time": 1776190062,
+    "update_time": 1776190062,
+    "_id": "Papillary Muscle Rupture"
+  },
+  "Septum": {
+    "chunk_ids": [
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 1,
+    "create_time": 1776190062,
+    "update_time": 1776190062,
+    "_id": "Septum"
+  },
+  "ST-Segment Elevation": {
+    "chunk_ids": [
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 1,
+    "create_time": 1776190062,
+    "update_time": 1776190062,
+    "_id": "ST-Segment Elevation"
+  },
+  "T-Wave Inversion": {
+    "chunk_ids": [
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 1,
+    "create_time": 1776190063,
+    "update_time": 1776190063,
+    "_id": "T-Wave Inversion"
+  },
+  "QS Wave": {
+    "chunk_ids": [
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 1,
+    "create_time": 1776190063,
+    "update_time": 1776190063,
+    "_id": "QS Wave"
+  },
+  "12-Lead ECG Tracing": {
+    "chunk_ids": [
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 1,
+    "create_time": 1776190063,
+    "update_time": 1776190063,
+    "_id": "12-Lead ECG Tracing"
+  },
+  "Papillary Muscle Dysfunction": {
+    "chunk_ids": [
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 1,
+    "create_time": 1776190063,
+    "update_time": 1776190063,
+    "_id": "Papillary Muscle Dysfunction"
+  },
+  "Myocardial Ischaemia": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4",
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 2,
+    "create_time": 1776190063,
+    "update_time": 1776190063,
+    "_id": "Myocardial Ischaemia"
+  },
+  "Acute Coronary Syndromes": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190063,
+    "update_time": 1776190063,
+    "_id": "Acute Coronary Syndromes"
+  },
+  "Atherosclerotic Plaque": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190064,
+    "update_time": 1776190064,
+    "_id": "Atherosclerotic Plaque"
+  },
+  "Thrombus": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190064,
+    "update_time": 1776190064,
+    "_id": "Thrombus"
+  },
+  "Myocardial Oxygen Delivery": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190064,
+    "update_time": 1776190064,
+    "_id": "Myocardial Oxygen Delivery"
+  },
+  "Exercise Stress Testing (EST)": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4",
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 2,
+    "create_time": 1776190064,
+    "update_time": 1776190064,
+    "_id": "Exercise Stress Testing (EST)"
+  },
+  "Cardiac Enzymes": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190064,
+    "update_time": 1776190064,
+    "_id": "Cardiac Enzymes"
+  },
+  "Infarcation": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190064,
+    "update_time": 1776190064,
+    "_id": "Infarcation"
+  },
+  "Unstable Angina": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4",
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 2,
+    "create_time": 1776190065,
+    "update_time": 1776190065,
+    "_id": "Unstable Angina"
+  },
+  "Supply-Demand Mismatch": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190065,
+    "update_time": 1776190065,
+    "_id": "Supply-Demand Mismatch"
+  },
+  "Coronary Flow Reserve": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190065,
+    "update_time": 1776190065,
+    "_id": "Coronary Flow Reserve"
+  },
+  "Stenosis": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190065,
+    "update_time": 1776190065,
+    "_id": "Stenosis"
+  },
+  "Inflammatory Cascade": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190066,
+    "update_time": 1776190066,
+    "_id": "Inflammatory Cascade"
+  },
+  "Ministry Of Health And Quality Of Life/Mauritius Institute Of Health/World Health Organisation": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d",
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0",
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d",
+      "chunk-fba062a869c808ddf245e61a4921a0b9",
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 5,
+    "create_time": 1776190066,
+    "update_time": 1776190066,
+    "_id": "Ministry Of Health And Quality Of Life/Mauritius Institute Of Health/World Health Organisation"
+  },
+  "Acute Myocardial Infarction": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190066,
+    "update_time": 1776190066,
+    "_id": "Acute Myocardial Infarction"
+  },
+  "ST Segment Elevation": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190066,
+    "update_time": 1776190066,
+    "_id": "ST Segment Elevation"
+  },
+  "Cardiogenic Shock": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190066,
+    "update_time": 1776190066,
+    "_id": "Cardiogenic Shock"
+  },
+  "Atrial Fibrillation": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190067,
+    "update_time": 1776190067,
+    "_id": "Atrial Fibrillation"
+  },
+  "Thrombolysis": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190067,
+    "update_time": 1776190067,
+    "_id": "Thrombolysis"
+  },
+  "Primary Percutaneous Coronary Intervention (PCI)": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190067,
+    "update_time": 1776190067,
+    "_id": "Primary Percutaneous Coronary Intervention (PCI)"
+  },
+  "Atropine": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190067,
+    "update_time": 1776190067,
+    "_id": "Atropine"
+  },
+  "Pacing": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190067,
+    "update_time": 1776190067,
+    "_id": "Pacing"
+  },
+  "Cardioversion": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190068,
+    "update_time": 1776190068,
+    "_id": "Cardioversion"
+  },
+  "Intracerebral Hemorrhage": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190068,
+    "update_time": 1776190068,
+    "_id": "Intracerebral Hemorrhage"
+  },
+  "Suspected Aortic Dissection": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190068,
+    "update_time": 1776190068,
+    "_id": "Suspected Aortic Dissection"
+  },
+  "Intracranial Neoplasm": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190068,
+    "update_time": 1776190068,
+    "_id": "Intracranial Neoplasm"
+  },
+  "Haemorrhagic CVA": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190068,
+    "update_time": 1776190068,
+    "_id": "Haemorrhagic CVA"
+  },
+  "Streptokinase": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190068,
+    "update_time": 1776190068,
+    "_id": "Streptokinase"
+  },
+  "Anistreplase": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190069,
+    "update_time": 1776190069,
+    "_id": "Anistreplase"
+  },
+  "Urokinase": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190069,
+    "update_time": 1776190069,
+    "_id": "Urokinase"
+  },
+  "Severe Hypertension": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190069,
+    "update_time": 1776190069,
+    "_id": "Severe Hypertension"
+  },
+  "Bilateral Bundle Branch Block": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190069,
+    "update_time": 1776190069,
+    "_id": "Bilateral Bundle Branch Block"
+  },
+  "Dyspnea": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190069,
+    "update_time": 1776190069,
+    "_id": "Dyspnea"
+  },
+  "Left Ventricular Function": {
+    "chunk_ids": [
+      "chunk-3bade9898b872aa7e3336771b6b88e1d"
+    ],
+    "count": 1,
+    "create_time": 1776190069,
+    "update_time": 1776190069,
+    "_id": "Left Ventricular Function"
+  },
+  "Ministry of Health And Quality Of Life/Mauritius Institute Of Health/World Health Organisation": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190070,
+    "update_time": 1776190070,
+    "_id": "Ministry of Health And Quality Of Life/Mauritius Institute Of Health/World Health Organisation"
+  },
+  "Oesophageal Pain": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190070,
+    "update_time": 1776190070,
+    "_id": "Oesophageal Pain"
+  },
+  "Gastric Pain": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190070,
+    "update_time": 1776190070,
+    "_id": "Gastric Pain"
+  },
+  "Oral Antacid": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190070,
+    "update_time": 1776190070,
+    "_id": "Oral Antacid"
+  },
+  "Tachycardia": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0",
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 2,
+    "create_time": 1776190070,
+    "update_time": 1776190070,
+    "_id": "Tachycardia"
+  },
+  "Persistent Chest Pain": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190070,
+    "update_time": 1776190070,
+    "_id": "Persistent Chest Pain"
+  },
+  "Ischaemic Ecg Changes": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190071,
+    "update_time": 1776190071,
+    "_id": "Ischaemic Ecg Changes"
+  },
+  "Intravenous Beta-blockers": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190071,
+    "update_time": 1776190071,
+    "_id": "Intravenous Beta-blockers"
+  },
+  "Oral Beta-blockade": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190131,
+    "update_time": 1776190131,
+    "_id": "Oral Beta-blockade"
+  },
+  "Atenolol": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190131,
+    "update_time": 1776190131,
+    "_id": "Atenolol"
+  },
+  "Antithrombotic Therapy": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190132,
+    "update_time": 1776190132,
+    "_id": "Antithrombotic Therapy"
+  },
+  "Anticoagulant Therapy": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190132,
+    "update_time": 1776190132,
+    "_id": "Anticoagulant Therapy"
+  },
+  "Unfractionated Heparin": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190132,
+    "update_time": 1776190132,
+    "_id": "Unfractionated Heparin"
+  },
+  "Low Molecular Weight Heparins": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190132,
+    "update_time": 1776190132,
+    "_id": "Low Molecular Weight Heparins"
+  },
+  "Enoxaparin (Lovenox)": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190132,
+    "update_time": 1776190132,
+    "_id": "Enoxaparin (Lovenox)"
+  },
+  "Glycoprotein IIb/IIIa Receptor": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190132,
+    "update_time": 1776190132,
+    "_id": "Glycoprotein IIb/IIIa Receptor"
+  },
+  "Antibody Fragment (abciximab)": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190133,
+    "update_time": 1776190133,
+    "_id": "Antibody Fragment (abciximab)"
+  },
+  "Peptide (Eptifibatide, Tirofiban)": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190133,
+    "update_time": 1776190133,
+    "_id": "Peptide (Eptifibatide, Tirofiban)"
+  },
+  "Cardiac Catheterization": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190133,
+    "update_time": 1776190133,
+    "_id": "Cardiac Catheterization"
+  },
+  "Revascularization": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190133,
+    "update_time": 1776190133,
+    "_id": "Revascularization"
+  },
+  "Smoking": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0",
+      "chunk-1402c215c7fd318145880a62d19e2b3a",
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 3,
+    "create_time": 1776190133,
+    "update_time": 1776190133,
+    "_id": "Smoking"
+  },
+  "Diabetes": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0",
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 2,
+    "create_time": 1776190133,
+    "update_time": 1776190133,
+    "_id": "Diabetes"
+  },
+  "Prothrombin Time": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190134,
+    "update_time": 1776190134,
+    "_id": "Prothrombin Time"
+  },
+  "N-3-omega Fatty Acids": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190134,
+    "update_time": 1776190134,
+    "_id": "N-3-omega Fatty Acids"
+  },
+  "Mediterranean Diet": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
+    ],
+    "count": 2,
+    "create_time": 1776190134,
+    "update_time": 1776190134,
+    "_id": "Mediterranean Diet"
+  },
+  "Japanese Diet": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
+    ],
+    "count": 2,
+    "create_time": 1776190134,
+    "update_time": 1776190134,
+    "_id": "Japanese Diet"
+  },
+  "Saturated Fatty Acids": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190134,
+    "update_time": 1776190134,
+    "_id": "Saturated Fatty Acids"
+  },
+  "Unsaturated Fatty Acids": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190135,
+    "update_time": 1776190135,
+    "_id": "Unsaturated Fatty Acids"
+  },
+  "Complex Carbohydrates": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190135,
+    "update_time": 1776190135,
+    "_id": "Complex Carbohydrates"
+  },
+  "Body Mass Index": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190135,
+    "update_time": 1776190135,
+    "_id": "Body Mass Index"
+  },
+  "Waist Hip Ratio": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190135,
+    "update_time": 1776190135,
+    "_id": "Waist Hip Ratio"
+  },
+  "Waist Circumference": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190135,
+    "update_time": 1776190135,
+    "_id": "Waist Circumference"
+  },
+  "Central Obesity": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190136,
+    "update_time": 1776190136,
+    "_id": "Central Obesity"
+  },
+  "Type 1 Diabetes": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190136,
+    "update_time": 1776190136,
+    "_id": "Type 1 Diabetes"
+  },
+  "Type 2 Diabetes": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190136,
+    "update_time": 1776190136,
+    "_id": "Type 2 Diabetes"
   },
   "Alcohol": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186440,
-    "update_time": 1776186440,
+    "create_time": 1776190136,
+    "update_time": 1776190136,
     "_id": "Alcohol"
   },
-  "Nonaspirin Nonsteroidal Anti-Inflammatory Drugs": {
+  "Monounsaturated Fat": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186440,
-    "update_time": 1776186440,
-    "_id": "Nonaspirin Nonsteroidal Anti-Inflammatory Drugs"
+    "create_time": 1776190136,
+    "update_time": 1776190136,
+    "_id": "Monounsaturated Fat"
   },
-  "Improving Hypertension Control": {
+  "Dietician": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186440,
-    "update_time": 1776186440,
-    "_id": "Improving Hypertension Control"
+    "create_time": 1776190137,
+    "update_time": 1776190137,
+    "_id": "Dietician"
   },
-  "Issues Dealing With Adherence To Regimens": {
+  "Trained Nurse": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186441,
-    "update_time": 1776186441,
-    "_id": "Issues Dealing With Adherence To Regimens"
+    "create_time": 1776190137,
+    "update_time": 1776190137,
+    "_id": "Trained Nurse"
   },
-  "What Can The Clinician Do?": {
+  "BMI Classification": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186441,
-    "update_time": 1776186441,
-    "_id": "What Can The Clinician Do?"
+    "create_time": 1776190137,
+    "update_time": 1776190137,
+    "_id": "BMI Classification"
   },
-  "Clinical Inertia": {
+  "Impaired Glucose Tolerance": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a",
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
     ],
-    "count": 1,
-    "create_time": 1776186441,
-    "update_time": 1776186441,
-    "_id": "Clinical Inertia"
+    "count": 2,
+    "create_time": 1776190137,
+    "update_time": 1776190137,
+    "_id": "Impaired Glucose Tolerance"
   },
-  "Role Of Other Health Care Professionals": {
+  "Lipid Abnormalities": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186441,
-    "update_time": 1776186441,
-    "_id": "Role Of Other Health Care Professionals"
+    "create_time": 1776190137,
+    "update_time": 1776190137,
+    "_id": "Lipid Abnormalities"
   },
-  "Patient Factors": {
+  "Passive Smoking": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186441,
-    "update_time": 1776186441,
-    "_id": "Patient Factors"
+    "create_time": 1776190137,
+    "update_time": 1776190137,
+    "_id": "Passive Smoking"
   },
-  "Characterization Of Patients Leading To Tailored Therapy": {
+  "Myocardial Necrosis": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186441,
-    "update_time": 1776186441,
-    "_id": "Characterization Of Patients Leading To Tailored Therapy"
+    "create_time": 1776190138,
+    "update_time": 1776190138,
+    "_id": "Myocardial Necrosis"
   },
-  "Goal Setting And Behavioral Change": {
+  "Coronary Atherosclerosis": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186442,
-    "update_time": 1776186442,
-    "_id": "Goal Setting And Behavioral Change"
+    "create_time": 1776190138,
+    "update_time": 1776190138,
+    "_id": "Coronary Atherosclerosis"
   },
-  "Economic Barriers": {
+  "Cardiac Hypertrophy": {
     "chunk_ids": [
-      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
     ],
     "count": 1,
-    "create_time": 1776186442,
-    "update_time": 1776186442,
-    "_id": "Economic Barriers"
+    "create_time": 1776190138,
+    "update_time": 1776190138,
+    "_id": "Cardiac Hypertrophy"
   },
-  "Rush University Medical Center": {
+  "Angioplasty": {
     "chunk_ids": [
-      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
     ],
     "count": 1,
-    "create_time": 1776186443,
-    "update_time": 1776186443,
-    "_id": "Rush University Medical Center"
+    "create_time": 1776190138,
+    "update_time": 1776190138,
+    "_id": "Angioplasty"
   },
-  "natural history": {
+  "Bypass Grafting": {
     "chunk_ids": [
-      "chunk-58763f1e533c69de4d39064f39a03154"
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
     ],
     "count": 1,
-    "create_time": 1776186450,
-    "update_time": 1776186450,
-    "_id": "natural history"
+    "create_time": 1776190139,
+    "update_time": 1776190139,
+    "_id": "Bypass Grafting"
   },
-  "NHBPEP Coordinating Committee": {
+  "Risk Factor": {
     "chunk_ids": [
-      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
     ],
     "count": 1,
-    "create_time": 1776186453,
-    "update_time": 1776186453,
-    "_id": "NHBPEP Coordinating Committee"
+    "create_time": 1776190139,
+    "update_time": 1776190139,
+    "_id": "Risk Factor"
   },
-  "Health Care": {
+  "Screening": {
     "chunk_ids": [
-      "chunk-52224da6ee438f52167a3af07f7ae220"
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
     ],
     "count": 1,
-    "create_time": 1776186517,
-    "update_time": 1776186517,
-    "_id": "Health Care"
+    "create_time": 1776190139,
+    "update_time": 1776190139,
+    "_id": "Screening"
+  },
+  "Lifestyle Modification": {
+    "chunk_ids": [
+      "chunk-8c2d4bf173facbfeaa65d8b86b3d62ca"
+    ],
+    "count": 1,
+    "create_time": 1776190139,
+    "update_time": 1776190139,
+    "_id": "Lifestyle Modification"
+  },
+  "Non St Elevation Acute Coronary Syndrome": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190139,
+    "update_time": 1776190139,
+    "_id": "Non St Elevation Acute Coronary Syndrome"
+  },
+  "Non-St Elevation Myocardial Infarction": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190139,
+    "update_time": 1776190139,
+    "_id": "Non-St Elevation Myocardial Infarction"
+  },
+  "Physical Examination": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0",
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 2,
+    "update_time": 1776190215,
+    "_id": "Physical Examination"
+  },
+  "Complete Blood Count": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190140,
+    "update_time": 1776190140,
+    "_id": "Complete Blood Count"
+  },
+  "Electrolytes": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190140,
+    "update_time": 1776190140,
+    "_id": "Electrolytes"
+  },
+  "Renal Function Tests": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190140,
+    "update_time": 1776190140,
+    "_id": "Renal Function Tests"
+  },
+  "Chest X-Ray": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190140,
+    "update_time": 1776190140,
+    "_id": "Chest X-Ray"
+  },
+  "Clotting Times": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190140,
+    "update_time": 1776190140,
+    "_id": "Clotting Times"
+  },
+  "ECG Analysis": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190141,
+    "update_time": 1776190141,
+    "_id": "ECG Analysis"
+  },
+  "Serum Cardiac Markers": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190141,
+    "update_time": 1776190141,
+    "_id": "Serum Cardiac Markers"
+  },
+  "Non-Ischaemic Causes Of Pain": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190141,
+    "update_time": 1776190141,
+    "_id": "Non-Ischaemic Causes Of Pain"
+  },
+  "Nitroglycerin": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190141,
+    "update_time": 1776190141,
+    "_id": "Nitroglycerin"
+  },
+  "Beta Blockers": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190141,
+    "update_time": 1776190141,
+    "_id": "Beta Blockers"
+  },
+  "Low Molecular Weight Heparin": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190141,
+    "update_time": 1776190141,
+    "_id": "Low Molecular Weight Heparin"
+  },
+  "Ticlopidine": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190142,
+    "update_time": 1776190142,
+    "_id": "Ticlopidine"
+  },
+  "Glycoprotein 11b- 111a Receptor Inhibitors": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190142,
+    "update_time": 1776190142,
+    "_id": "Glycoprotein 11b- 111a Receptor Inhibitors"
+  },
+  "Bradycardia": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190142,
+    "update_time": 1776190142,
+    "_id": "Bradycardia"
+  },
+  "Peripheral Vascular Disease": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190142,
+    "update_time": 1776190142,
+    "_id": "Peripheral Vascular Disease"
+  },
+  "Atherosclerotic Coronary Disease": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190143,
+    "update_time": 1776190143,
+    "_id": "Atherosclerotic Coronary Disease"
+  },
+  "Costochondritis": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190143,
+    "update_time": 1776190143,
+    "_id": "Costochondritis"
+  },
+  "Obstructive Pulmonary Disease": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190143,
+    "update_time": 1776190143,
+    "_id": "Obstructive Pulmonary Disease"
+  },
+  "Pericarditis": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190143,
+    "update_time": 1776190143,
+    "_id": "Pericarditis"
+  },
+  "Aortic Dissection": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190143,
+    "update_time": 1776190143,
+    "_id": "Aortic Dissection"
+  },
+  "Upper Gastrointestinal Disease": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190143,
+    "update_time": 1776190143,
+    "_id": "Upper Gastrointestinal Disease"
+  },
+  "Biphasic Or Inverted T Waves": {
+    "chunk_ids": [
+      "chunk-ba47882bd330c094f4cf8a1a605cf0b0"
+    ],
+    "count": 1,
+    "create_time": 1776190144,
+    "update_time": 1776190144,
+    "_id": "Biphasic Or Inverted T Waves"
+  },
+  "Smoking Cessation": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190144,
+    "update_time": 1776190144,
+    "_id": "Smoking Cessation"
+  },
+  "Chrostopher P Housen": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190144,
+    "update_time": 1776190144,
+    "_id": "Chrostopher P Housen"
+  },
+  "Bulletin Of World Health Federation": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190144,
+    "update_time": 1776190144,
+    "_id": "Bulletin Of World Health Federation"
+  },
+  "Physical Activity For Healthy Adults As A Primary Prevention Intervention In The Clinical Setting": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190144,
+    "update_time": 1776190144,
+    "_id": "Physical Activity For Healthy Adults As A Primary Prevention Intervention In The Clinical Setting"
+  },
+  "Sally S Haris": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190144,
+    "update_time": 1776190144,
+    "_id": "Sally S Haris"
+  },
+  "Physical Exercise In The Management Of Hypertension": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190145,
+    "update_time": 1776190145,
+    "_id": "Physical Exercise In The Management Of Hypertension"
+  },
+  "Kikua Arakawa": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190145,
+    "update_time": 1776190145,
+    "_id": "Kikua Arakawa"
+  },
+  "Behavioural Change": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190145,
+    "update_time": 1776190145,
+    "_id": "Behavioural Change"
+  },
+  "Procjaska": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190145,
+    "update_time": 1776190145,
+    "_id": "Procjaska"
+  },
+  "Diclemente": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190145,
+    "update_time": 1776190145,
+    "_id": "Diclemente"
+  },
+  "Stages Of Change Model": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190145,
+    "update_time": 1776190145,
+    "_id": "Stages Of Change Model"
+  },
+  "Pre-Contemplation": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190146,
+    "update_time": 1776190146,
+    "_id": "Pre-Contemplation"
+  },
+  "Contemplation": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190146,
+    "update_time": 1776190146,
+    "_id": "Contemplation"
+  },
+  "Preparation Action": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190146,
+    "update_time": 1776190146,
+    "_id": "Preparation Action"
+  },
+  "Maintenance": {
+    "chunk_ids": [
+      "chunk-4a07b3f1da8427b5b209e9546fe4fc9d"
+    ],
+    "count": 1,
+    "create_time": 1776190146,
+    "update_time": 1776190146,
+    "_id": "Maintenance"
+  },
+  "Chronic Ischaemic Heart Disease": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15",
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 2,
+    "create_time": 1776190147,
+    "update_time": 1776190147,
+    "_id": "Chronic Ischaemic Heart Disease"
+  },
+  "Chest Pain": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190147,
+    "update_time": 1776190147,
+    "_id": "Chest Pain"
+  },
+  "Myocardial Infarction (MI)": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190147,
+    "update_time": 1776190147,
+    "_id": "Myocardial Infarction (MI)"
+  },
+  "Beta-Blockers": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190147,
+    "update_time": 1776190147,
+    "_id": "Beta-Blockers"
+  },
+  "Severe Aortic Stenosis": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190147,
+    "update_time": 1776190147,
+    "_id": "Severe Aortic Stenosis"
+  },
+  "Hypertrophic Obstructive Cardiomyopathy (HOCM)": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190147,
+    "update_time": 1776190147,
+    "_id": "Hypertrophic Obstructive Cardiomyopathy (HOCM)"
+  },
+  "Coronary Revascularization": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190148,
+    "update_time": 1776190148,
+    "_id": "Coronary Revascularization"
+  },
+  "Ministry Of Health And Quality Of Life / Mauritius Institute Of Health / World Health Organisation": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190148,
+    "update_time": 1776190148,
+    "_id": "Ministry Of Health And Quality Of Life / Mauritius Institute Of Health / World Health Organisation"
+  },
+  "Non-Communicable Disease": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190148,
+    "update_time": 1776190148,
+    "_id": "Non-Communicable Disease"
+  },
+  "Physical Activity": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190148,
+    "update_time": 1776190148,
+    "_id": "Physical Activity"
+  },
+  "Weight Management": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190148,
+    "update_time": 1776190148,
+    "_id": "Weight Management"
+  },
+  "Blood Pressure Control": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190148,
+    "update_time": 1776190148,
+    "_id": "Blood Pressure Control"
+  },
+  "Lipid Management": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190149,
+    "update_time": 1776190149,
+    "_id": "Lipid Management"
+  },
+  "Oestrogen Replacement Therapy": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190149,
+    "update_time": 1776190149,
+    "_id": "Oestrogen Replacement Therapy"
+  },
+  "Antiplatelets/Anticoagulants": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190149,
+    "update_time": 1776190149,
+    "_id": "Antiplatelets/Anticoagulants"
+  },
+  "Primary Prevention": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190149,
+    "update_time": 1776190149,
+    "_id": "Primary Prevention"
+  },
+  "Secondary Prevention": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9",
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 2,
+    "update_time": 1776190219,
+    "_id": "Secondary Prevention"
+  },
+  "Triglyceride Level": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190150,
+    "update_time": 1776190150,
+    "_id": "Triglyceride Level"
+  },
+  "LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190210,
+    "update_time": 1776190210,
+    "_id": "LDL Cholesterol"
+  },
+  "Blood Pressure Readings": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190210,
+    "update_time": 1776190210,
+    "_id": "Blood Pressure Readings"
+  },
+  "Statin Drug Therapy": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190210,
+    "update_time": 1776190210,
+    "_id": "Statin Drug Therapy"
+  },
+  "Fibrate Drug Therapy": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190210,
+    "update_time": 1776190210,
+    "_id": "Fibrate Drug Therapy"
+  },
+  "Niacin Drug Therapy": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190211,
+    "update_time": 1776190211,
+    "_id": "Niacin Drug Therapy"
+  },
+  "International Normalized Ratio": {
+    "chunk_ids": [
+      "chunk-fba062a869c808ddf245e61a4921a0b9"
+    ],
+    "count": 1,
+    "create_time": 1776190211,
+    "update_time": 1776190211,
+    "_id": "International Normalized Ratio"
+  },
+  "Glucose Control": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190211,
+    "update_time": 1776190211,
+    "_id": "Glucose Control"
+  },
+  "Lipid Profile": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190211,
+    "update_time": 1776190211,
+    "_id": "Lipid Profile"
+  },
+  "Exercise": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190211,
+    "update_time": 1776190211,
+    "_id": "Exercise"
+  },
+  "Endurance": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190211,
+    "update_time": 1776190211,
+    "_id": "Endurance"
+  },
+  "Objective Measures Of Ischaemia": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190212,
+    "update_time": 1776190212,
+    "_id": "Objective Measures Of Ischaemia"
+  },
+  "Follow-Up Evaluation": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190212,
+    "update_time": 1776190212,
+    "_id": "Follow-Up Evaluation"
+  },
+  "Anginal Symptoms": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190212,
+    "update_time": 1776190212,
+    "_id": "Anginal Symptoms"
+  },
+  "Unstable Angina (UA)": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190212,
+    "update_time": 1776190212,
+    "_id": "Unstable Angina (UA)"
+  },
+  "ST Elevation Myocardial Infarction (MI)": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190212,
+    "update_time": 1776190212,
+    "_id": "ST Elevation Myocardial Infarction (MI)"
+  },
+  "Left Ventricular Ejection Fraction (LVEF)": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190212,
+    "update_time": 1776190212,
+    "_id": "Left Ventricular Ejection Fraction (LVEF)"
+  },
+  "Coronary Angiography": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190213,
+    "update_time": 1776190213,
+    "_id": "Coronary Angiography"
+  },
+  "Coronary Artery Bypass Graft (CABG)": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190213,
+    "update_time": 1776190213,
+    "_id": "Coronary Artery Bypass Graft (CABG)"
+  },
+  "Percutaneous Coronary Intervention (PCI)": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190213,
+    "update_time": 1776190213,
+    "_id": "Percutaneous Coronary Intervention (PCI)"
+  },
+  "Aspirin And Anti-Anginals": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190213,
+    "update_time": 1776190213,
+    "_id": "Aspirin And Anti-Anginals"
+  },
+  "Beta-Blocker": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190214,
+    "update_time": 1776190214,
+    "_id": "Beta-Blocker"
+  },
+  "Cholesterol Lowering": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190214,
+    "update_time": 1776190214,
+    "_id": "Cholesterol Lowering"
+  },
+  "Diabetic Assessment": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190214,
+    "update_time": 1776190214,
+    "_id": "Diabetic Assessment"
+  },
+  "Canadian Cardiovascular Society Angina Class III Or IV": {
+    "chunk_ids": [
+      "chunk-725fd25b2b914218473f4027eb936a0b"
+    ],
+    "count": 1,
+    "create_time": 1776190214,
+    "update_time": 1776190214,
+    "_id": "Canadian Cardiovascular Society Angina Class III Or IV"
+  },
+  "Primary Care Physicians": {
+    "chunk_ids": [
+      "chunk-41d9481df9dca8a996f49a342af0df96"
+    ],
+    "count": 1,
+    "create_time": 1776190217,
+    "update_time": 1776190217,
+    "_id": "Primary Care Physicians"
+  },
+  "Coronary Blood Flow": {
+    "chunk_ids": [
+      "chunk-66cab5fae30b68ce441cbeaea72167d4"
+    ],
+    "count": 1,
+    "create_time": 1776190217,
+    "update_time": 1776190217,
+    "_id": "Coronary Blood Flow"
+  },
+  "Aspirin, Heparin": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190219,
+    "update_time": 1776190219,
+    "_id": "Aspirin, Heparin"
+  },
+  "Hypertension, Tachycardia": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190220,
+    "update_time": 1776190220,
+    "_id": "Hypertension, Tachycardia"
+  },
+  "Monounsaturated Fats": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190220,
+    "update_time": 1776190220,
+    "_id": "Monounsaturated Fats"
+  },
+  "Glycoprotein IIb/IIIa Receptor Antagonists": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190220,
+    "update_time": 1776190220,
+    "_id": "Glycoprotein IIb/IIIa Receptor Antagonists"
+  },
+  "Smoking, Hyperlipidemia": {
+    "chunk_ids": [
+      "chunk-e6bcb6c446cca77c7de2fbf5c07b59b0"
+    ],
+    "count": 1,
+    "create_time": 1776190221,
+    "update_time": 1776190221,
+    "_id": "Smoking, Hyperlipidemia"
+  },
+  "Body Weight": {
+    "chunk_ids": [
+      "chunk-1402c215c7fd318145880a62d19e2b3a"
+    ],
+    "count": 1,
+    "create_time": 1776190224,
+    "update_time": 1776190224,
+    "_id": "Body Weight"
+  },
+  "EST": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190227,
+    "update_time": 1776190227,
+    "_id": "EST"
+  },
+  "Medical Therapy": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190228,
+    "update_time": 1776190228,
+    "_id": "Medical Therapy"
+  },
+  "Heart Failure": {
+    "chunk_ids": [
+      "chunk-0a8a07023292447dd472b098aca92a15"
+    ],
+    "count": 1,
+    "create_time": 1776190228,
+    "update_time": 1776190228,
+    "_id": "Heart Failure"
   }
 }

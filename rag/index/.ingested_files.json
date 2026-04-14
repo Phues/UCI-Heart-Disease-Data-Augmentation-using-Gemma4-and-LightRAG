@@ -1,5 +1,7 @@
 [
   "atp3_extracted.txt",
+  "chol_bp_extracted.txt",
   "dataset_description.txt",
-  "jnc7_extracted.txt"
+  "jnc7_extracted.txt",
+  "who_guidelines_extracted.txt"
 ]
