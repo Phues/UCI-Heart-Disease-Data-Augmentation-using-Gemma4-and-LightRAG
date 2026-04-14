@@ -24,7 +24,7 @@ async def build_rag() -> LightRAG:
             "host": "http://localhost:11434",
             "options": {
                 "num_ctx": 4096,    # GPU can handle this now
-                "num_gpu": 99,      # offload all layers to GPU
+                "num_gpu": -1,   
             }
         },
         embedding_func=EmbeddingFunc(
