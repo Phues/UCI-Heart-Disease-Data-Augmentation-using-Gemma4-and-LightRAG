@@ -4,11 +4,10 @@ import re
 import os
 import ollama
 from lightrag import QueryParam
-from rag_setup import build_rag
+from rag_setup import build_rag, _current_host, wait_for_tunnel, check_ollama_reachable
 
 OLLAMA_MODEL = "gemma4:e4b"
 
-# UCI Heart Disease dataset columns
 UCI_COLUMNS = ["age", "sex", "cp", "trestbps", "chol", "fbs",
                "restecg", "thalach", "exang", "oldpeak", "slope",
                "ca", "thal", "target"]
@@ -34,7 +33,7 @@ Field definitions:
 - slope: slope of peak exercise ST (0=upsloping, 1=flat, 2=downsloping)
 - ca: number of major vessels (0-3)
 - thal: 1=normal, 2=fixed defect, 3=reversible defect
-- target: 0=no disease, 1=disease
+- target:  0=no heart disease, 1=heart disease present
 
 Respond with ONLY the JSON object, no explanation."""
 
@@ -46,10 +45,13 @@ async def get_constraints(rag, profile: dict) -> str:
         f"blood pressure={profile.get('trestbps', 'unknown')} mmHg. "
         f"What ranges and correlations apply for heart disease risk?"
     )
-    result = await rag.aquery(query, param=QueryParam(mode="naive"))
+    result = await rag.aquery(query, param=QueryParam(mode="hybrid"))
     return result
 
 def generate_record(profile: dict, constraints: str) -> dict:
+    # Always use current host so a refreshed ngrok URL is picked up mid-run
+    client = ollama.Client(host=_current_host())
+
     prompt = f"""Clinical constraints from guidelines:
 {constraints}
 
@@ -58,28 +60,32 @@ Seed patient profile (use as starting point, adjust to be medically consistent):
 
 Generate ONE complete synthetic patient record as a JSON object."""
 
-    response = ollama.chat(
+    # Gate: tunnel must be reachable before the LLM call
+    if not check_ollama_reachable():
+        wait_for_tunnel("generate_record")
+
+    response = client.chat(
         model=OLLAMA_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": prompt}
+            {"role": "user",   "content": prompt}
         ],
-        options={"temperature": 0.7, "num_ctx": 2048}
+        options={"temperature": 0.7, "num_ctx": 4096}
     )
 
     raw = response["message"]["content"].strip()
-    # Strip markdown code fences if present
     raw = re.sub(r"```json|```", "", raw).strip()
     record = json.loads(raw)
 
-    # Validate all expected keys are present
     for col in UCI_COLUMNS:
         if col not in record:
             raise ValueError(f"Missing field in generated record: {col}")
     return record
 
 async def generate_one(profile: dict) -> dict:
-    rag = await build_rag()
+    from rag_setup import get_embedding_dim
+    dim = get_embedding_dim()
+    rag = await build_rag(dim)
     constraints = await get_constraints(rag, profile)
     print(f"\n--- Retrieved Constraints (truncated) ---")
     print(constraints[:300], "...")
@@ -88,7 +94,6 @@ async def generate_one(profile: dict) -> dict:
     return record
 
 if __name__ == "__main__":
-    # Test with a seed profile
     seed = {"age": 55, "sex": 1, "chol": 240, "trestbps": 140, "fbs": 1}
     result = asyncio.run(generate_one(seed))
     print("\n--- Generated Record ---")

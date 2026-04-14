@@ -1,17 +1,13 @@
 import asyncio
-import json
-import re
 import os
+import sys
 import pandas as pd
-import ollama
-from lightrag import QueryParam
-from rag_setup import build_rag
+from rag_setup import build_rag, get_embedding_dim, check_ollama_reachable, wait_for_tunnel
 from generator import get_constraints, generate_record, UCI_COLUMNS
 
-OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/processed"))
+OUTPUT_DIR    = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/processed"))
 ORIGINAL_DATA = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/raw/heart.csv"))
 
-# Seed profiles covering diverse patient archetypes
 SEED_PROFILES = [
     {"age": 45, "sex": 1, "chol": 210, "trestbps": 125, "fbs": 0},  # mid-age male, moderate risk
     {"age": 55, "sex": 1, "chol": 245, "trestbps": 140, "fbs": 1},  # older male, high risk
@@ -23,33 +19,39 @@ SEED_PROFILES = [
     {"age": 50, "sex": 1, "chol": 260, "trestbps": 145, "fbs": 1},  # diabetic male
 ]
 
-async def generate_dataset(n_records: int = 100, rag=None) -> pd.DataFrame:
+async def generate_dataset(n_records: int = 100) -> pd.DataFrame:
     records = []
-    failed = 0
-    owns_rag = rag is None
+    failed  = 0
 
-    if owns_rag:
-        rag = await build_rag()
+    # Gate: tunnel must be up before we build RAG
+    if not check_ollama_reachable():
+        wait_for_tunnel("pipeline")
 
-    print(f"\nGenerating {n_records} synthetic records...")
-    for i in range(n_records):
-        # Cycle through seed profiles
-        seed = SEED_PROFILES[i % len(SEED_PROFILES)]
-        # Add small age variation so records aren't identical
-        seed = seed.copy()
-        seed["age"] = seed["age"] + (i % 7) - 3
+    dim = get_embedding_dim()
+    rag = await build_rag(dim)
 
-        try:
-            constraints = await get_constraints(rag, seed)
-            record = generate_record(seed, constraints)
-            records.append(record)
-            print(f"  [{i+1}/{n_records}] Generated: age={record['age']} "
-                  f"sex={record['sex']} chol={record['chol']} target={record['target']}")
-        except Exception as e:
-            failed += 1
-            print(f"  [{i+1}/{n_records}] FAILED: {e}")
+    print(f"\nGenerating {n_records} synthetic records via {os.getenv('OLLAMA_HOST', 'localhost')}...")
 
-    if owns_rag:
+    try:
+        for i in range(n_records):
+            seed = SEED_PROFILES[i % len(SEED_PROFILES)].copy()
+            seed["age"] = seed["age"] + (i % 7) - 3
+
+            # Re-check tunnel health every 10 records
+            if i % 10 == 0 and not check_ollama_reachable():
+                wait_for_tunnel(f"record {i+1}")
+
+            try:
+                constraints = await get_constraints(rag, seed)
+                record      = generate_record(seed, constraints)
+                records.append(record)
+                print(f"  [{i+1:>3}/{n_records}] age={record['age']:>2}  "
+                      f"sex={record['sex']}  chol={record['chol']:>3}  "
+                      f"trestbps={record['trestbps']:>3}  target={record['target']}")
+            except Exception as e:
+                failed += 1
+                print(f"  [{i+1:>3}/{n_records}] FAILED: {e}")
+    finally:
         await rag.finalize_storages()
 
     df = pd.DataFrame(records, columns=UCI_COLUMNS)
@@ -60,35 +62,38 @@ def compare_distributions(original: pd.DataFrame, synthetic: pd.DataFrame):
     print("\n=== Distribution Comparison ===")
     for col in ["age", "chol", "trestbps", "thalach"]:
         print(f"\n{col}:")
-        print(f"  Original  — mean: {original[col].mean():.1f}, std: {original[col].std():.1f}, "
-              f"min: {original[col].min()}, max: {original[col].max()}")
-        print(f"  Synthetic — mean: {synthetic[col].mean():.1f}, std: {synthetic[col].std():.1f}, "
-              f"min: {synthetic[col].min()}, max: {synthetic[col].max()}")
+        print(f"  Original  — mean: {original[col].mean():.1f}  std: {original[col].std():.1f}  "
+              f"min: {original[col].min()}  max: {original[col].max()}")
+        print(f"  Synthetic — mean: {synthetic[col].mean():.1f}  std: {synthetic[col].std():.1f}  "
+              f"min: {synthetic[col].min()}  max: {synthetic[col].max()}")
     print(f"\ntarget balance:")
-    print(f"  Original:  {original['target'].value_counts(normalize=True).to_dict()}")
-    print(f"  Synthetic: {synthetic['target'].value_counts(normalize=True).to_dict()}")
+    print(f"  Original:  {original['target'].value_counts(normalize=True).round(3).to_dict()}")
+    print(f"  Synthetic: {synthetic['target'].value_counts(normalize=True).round(3).to_dict()}")
 
 async def main(n_records: int = 50):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+
     df_synthetic = await generate_dataset(n_records)
 
-    # Save synthetic dataset
     out_path = os.path.join(OUTPUT_DIR, "synthetic_heart.csv")
     df_synthetic.to_csv(out_path, index=False)
-    print(f"\nSaved to {out_path}")
+    print(f"\nSaved → {out_path}")
 
-    # Compare with original if available
     if os.path.exists(ORIGINAL_DATA):
-        df_original = pd.read_csv(ORIGINAL_DATA)
+        df_original = pd.read_csv(ORIGINAL_DATA, na_values="?")
+        # UCI raw files use 'num' for the label; normalise to 'target'
+        if "num" in df_original.columns and "target" not in df_original.columns:
+            df_original = df_original.rename(columns={"num": "target"})
+        # Binarise: original uses 0-4, we use 0/1
+        if df_original["target"].max() > 1:
+            df_original["target"] = (df_original["target"] > 0).astype(int)
         compare_distributions(df_original, df_synthetic)
     else:
-        print(f"\nNo original data found at {ORIGINAL_DATA}")
-        print("Add the UCI heart disease CSV there to enable distribution comparison.")
+        print(f"\nNo original data at {ORIGINAL_DATA} — skipping distribution comparison.")
 
     print("\nSynthetic dataset preview:")
     print(df_synthetic.head(10).to_string())
 
 if __name__ == "__main__":
-    import sys
     n = int(sys.argv[1]) if len(sys.argv) > 1 else 50
     asyncio.run(main(n))

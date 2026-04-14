@@ -159,7 +159,7 @@ def get_embedding_dim():
 # ---------------------------------------------------------------------------
 # Build RAG
 # ---------------------------------------------------------------------------
-async def build_rag(dim):
+async def build_rag(dim=768):
     rag = LightRAG(
         working_dir=WORKING_DIR,
         llm_model_func=ollama_model_complete,
