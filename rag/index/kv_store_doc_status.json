@@ -1,0 +1,73 @@
+{
+  "doc-b09b2749729183712d3240b2e72cab56": {
+    "status": "processed",
+    "chunks_count": 9,
+    "chunks_list": [
+      "chunk-6a0733bca7611147bd0d7b8452e9cd47",
+      "chunk-4417d5a880fb11a8f66ef7c4eb00233a",
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56",
+      "chunk-c570d0f2b907a96493872be58707aa5f",
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a",
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
+      "chunk-07f4f68e34842231fc2bbe4c218d9f0e",
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94",
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "content_summary": "Source: NCEP ATP III — Cholesterol Guidelines\nURL: https://www.nhlbi.nih.gov/files/docs/guidelines/atp3xsum.pdf\n\n\n\n============================================================[Page 1]\nThird Report of the\nNational Cholesterol\nEducation Program (NCEP)\n...",
+    "content_length": 39999,
+    "created_at": "2026-04-14T16:22:24.531026+00:00",
+    "updated_at": "2026-04-14T16:39:45.776602+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260414_172224_ba2bd24d",
+    "metadata": {
+      "processing_start_time": 1776183744,
+      "processing_end_time": 1776184785
+    }
+  },
+  "doc-d5e6f7b9c4faf1e2140431bc45c138eb": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd",
+      "chunk-447c6e3389a31a2f5b30a6feff63926e",
+      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
+    ],
+    "content_summary": "Publication Request: \n   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n   This file describes the contents of the heart-disease directory.\n\n   This directory contains 4 databases concerning heart disease diagnosis.\n   All att...",
+    "content_length": 10059,
+    "created_at": "2026-04-14T16:39:46.143583+00:00",
+    "updated_at": "2026-04-14T16:46:33.476376+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260414_173946_905bc8b2",
+    "metadata": {
+      "processing_start_time": 1776184786,
+      "processing_end_time": 1776185193
+    }
+  },
+  "doc-da8a8ae5fe0df397bd5418d08005c0a0": {
+    "status": "processed",
+    "chunks_count": 11,
+    "chunks_list": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73",
+      "chunk-05d799864c85bf02a8010b7a15a569f3",
+      "chunk-2216f17dbf668a5093b180bdf7caa2d5",
+      "chunk-d96a06cecd736cbf1db97a308bbdfd7a",
+      "chunk-2c68597b34118931dc76621ef26e8459",
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c",
+      "chunk-089153c0a9e43f431c755dfee9cbc20e",
+      "chunk-0aa33a009726cb2a0f199d167ecc8006",
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4",
+      "chunk-58763f1e533c69de4d39064f39a03154",
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "content_summary": "Source: JNC 7 — Blood Pressure Guidelines\nURL: https://www.nhlbi.nih.gov/files/docs/guidelines/jnc7full.pdf\n\n\n\n============================================================[Page 1]\nNational High Blood Pressure Education Program\nComplete Report\nThe Sev...",
+    "content_length": 40000,
+    "created_at": "2026-04-14T16:46:33.849913+00:00",
+    "updated_at": "2026-04-14T17:08:42.530071+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260414_174633_a9a3ae6d",
+    "metadata": {
+      "processing_start_time": 1776185193,
+      "processing_end_time": 1776186522
+    }
+  }
+}

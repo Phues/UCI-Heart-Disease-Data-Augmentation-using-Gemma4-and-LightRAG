@@ -2,5 +2,3 @@
 __pycache__/
 #ignore rag_cache files
 rag_cache/
-#ignore /rag/indexes files
-rag/index/

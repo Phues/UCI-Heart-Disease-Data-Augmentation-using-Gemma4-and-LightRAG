@@ -1,0 +1,666 @@
+{
+  "doc-b09b2749729183712d3240b2e72cab56": {
+    "relation_pairs": [
+      [
+        "ATP III",
+        "HDL Cholesterol"
+      ],
+      [
+        "Primary Prevention",
+        "Weight Control"
+      ],
+      [
+        "Cholesterol",
+        "TLC Diet"
+      ],
+      [
+        "CHD",
+        "CHD risk equivalents"
+      ],
+      [
+        "ATP II",
+        "Coronary Heart Disease (CHD)"
+      ],
+      [
+        "Coronary Death",
+        "LDL-lowering Drugs"
+      ],
+      [
+        "Nutritionist",
+        "Registered Dietitians"
+      ],
+      [
+        "ATP I",
+        "ATP II"
+      ],
+      [
+        "LDL Cholesterol",
+        "Weight Reduction Therapy"
+      ],
+      [
+        "Coronary Heart Disease (CHD)",
+        "Framingham Projections"
+      ],
+      [
+        "CHD",
+        "Framingham Risk Scores"
+      ],
+      [
+        "LDL Cholesterol",
+        "Major Risk Factors"
+      ],
+      [
+        "ATP III",
+        "Core Risk Status"
+      ],
+      [
+        "ATP III",
+        "LDL Cholesterol"
+      ],
+      [
+        "ATP III",
+        "Total Cholesterol"
+      ],
+      [
+        "Primary Prevention",
+        "Saturated Fat"
+      ],
+      [
+        "Clinical Judgment",
+        "Older Persons"
+      ],
+      [
+        "Drug Use",
+        "Dyspepsia"
+      ],
+      [
+        "LDL-lowering Drugs",
+        "Primary Prevention"
+      ],
+      [
+        "LDL-lowering Drugs",
+        "Major Coronary Events"
+      ],
+      [
+        "Life-Habit Risk Factors",
+        "Metabolic Syndrome"
+      ],
+      [
+        "100 mg/dL",
+        "LDL Cholesterol"
+      ],
+      [
+        "LDL Cholesterol",
+        "Secondary Dyslipidemia"
+      ],
+      [
+        "LDL Cholesterol",
+        "Optimal LDL Cholesterol Level"
+      ],
+      [
+        "National Cholesterol Education Program",
+        "Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)"
+      ],
+      [
+        "Cytochrome P-450 Inhibitors",
+        "Nicotinic Acid"
+      ],
+      [
+        "Saturated Fat",
+        "TLC Diet"
+      ],
+      [
+        "High Blood Cholesterol",
+        "Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)"
+      ],
+      [
+        "CHD",
+        "Diabetes"
+      ],
+      [
+        "National Cholesterol Education Program",
+        "National Heart, Lung, and Blood Institute"
+      ],
+      [
+        "High Blood Cholesterol",
+        "NCEP Expert Panel"
+      ],
+      [
+        "Myopathy",
+        "Statin Drugs"
+      ],
+      [
+        "CHD",
+        "TLC Diet"
+      ],
+      [
+        "Congress",
+        "United States"
+      ],
+      [
+        "Coronary Heart Disease (CHD)",
+        "LDL Cholesterol"
+      ],
+      [
+        "Physical Activity",
+        "Weight Reduction Therapy"
+      ],
+      [
+        "Drug Therapy",
+        "Therapeutic Lifestyle Changes (TLC)"
+      ],
+      [
+        "Polyunsaturated Fat",
+        "Total Fat"
+      ],
+      [
+        "CHD",
+        "Family History of Premature CHD"
+      ],
+      [
+        "LDL Cholesterol",
+        "Nicotinic Acid"
+      ],
+      [
+        "Bile Acid Sequestrants",
+        "LDL Cholesterol"
+      ],
+      [
+        "Progestins, Anabolic Steroids, Corticosteroids",
+        "Secondary Dyslipidemia"
+      ],
+      [
+        "Hypothyroidism",
+        "Secondary Dyslipidemia"
+      ],
+      [
+        "ATP III",
+        "Risk Category"
+      ],
+      [
+        "LDL Cholesterol",
+        "Statin Drugs"
+      ],
+      [
+        "Drug Use",
+        "Peptic Ulcer Disease"
+      ],
+      [
+        "Adult Treatment Panel III",
+        "National Cholesterol Education Program"
+      ],
+      [
+        "Cytochrome P-450 Inhibitors",
+        "Fibrates"
+      ],
+      [
+        "Chronic Renal Failure",
+        "Secondary Dyslipidemia"
+      ],
+      [
+        "Emerging Risk Factors",
+        "Metabolic Syndrome"
+      ],
+      [
+        "Dietary Guidelines For Americans 2000",
+        "TLC Diet"
+      ],
+      [
+        "CHD",
+        "Cigarette Smoking"
+      ],
+      [
+        "LDL Cholesterol",
+        "Metabolic Syndrome"
+      ],
+      [
+        "HMG CoA Reductase Inhibitors",
+        "LDL Cholesterol"
+      ],
+      [
+        "Lipoprotein Profile",
+        "Total Cholesterol"
+      ],
+      [
+        "Fibrates",
+        "Triglycerides"
+      ],
+      [
+        "Diabetes",
+        "Secondary Dyslipidemia"
+      ],
+      [
+        "LDL Cholesterol",
+        "Multiple Risk Factors"
+      ]
+    ],
+    "count": 58,
+    "create_time": 1776184785,
+    "update_time": 1776184785,
+    "_id": "doc-b09b2749729183712d3240b2e72cab56"
+  },
+  "doc-d5e6f7b9c4faf1e2140431bc45c138eb": {
+    "relation_pairs": [
+      [
+        "Diuretic Use",
+        "Nitrate Use"
+      ],
+      [
+        "Age",
+        "Chest Pain Type (Cp)"
+      ],
+      [
+        "Data Set",
+        "David W. Aha"
+      ],
+      [
+        "Chest Pain Exertion",
+        "Chest Pain Type (Cp)"
+      ],
+      [
+        "Chest Pain Type (Cp)",
+        "Family History"
+      ],
+      [
+        "Chest Pain Type (Cp)",
+        "Pain Location"
+      ],
+      [
+        "Beta Blocker Use",
+        "Digitalis Use"
+      ],
+      [
+        "Heart Disease Diagnosis",
+        "Hungarian Institute Of Cardiology"
+      ],
+      [
+        "Concept",
+        "Relief After Rest"
+      ],
+      [
+        "Serum Cholesterol (Chol)",
+        "Smoking History"
+      ],
+      [
+        "Andras Janosi",
+        "Hungarian Institute Of Cardiology"
+      ],
+      [
+        "ca",
+        "restwm"
+      ],
+      [
+        "Cleveland Clinic Foundation",
+        "Heart Disease Diagnosis"
+      ],
+      [
+        "exerwm",
+        "restwm"
+      ],
+      [
+        "exeref",
+        "restef"
+      ],
+      [
+        "Exercise Blood Pressure",
+        "Maximum Heart Rate Achieved (Thalach)"
+      ],
+      [
+        "Matthias Pfisterer",
+        "University Hospital, Basel"
+      ],
+      [
+        "Robert Detrano",
+        "V.A. Medical Center, Long Beach"
+      ],
+      [
+        "Cleveland Clinic Foundation",
+        "Robert Detrano"
+      ],
+      [
+        "Heart Disease Diagnosis",
+        "University Hospital, Zurich"
+      ],
+      [
+        "University Hospital, Zurich",
+        "William Steinbrunn"
+      ],
+      [
+        "rcadist",
+        "rcaprox"
+      ],
+      [
+        "Heart Disease Diagnosis",
+        "V.A. Medical Center, Long Beach"
+      ],
+      [
+        "Chest Pain Type (Cp)",
+        "Resting Blood Pressure (Trestbps)"
+      ],
+      [
+        "Concept",
+        "Fasting Blood Sugar (Fbs)"
+      ],
+      [
+        "Beta Blocker Use",
+        "Calcium Channel Blocker Use"
+      ],
+      [
+        "Concept",
+        "Resting Electrocardiographic Results (Restecg)"
+      ],
+      [
+        "Concept",
+        "Maximum Heart Rate Achieved (Thalach)"
+      ],
+      [
+        "Chest Pain Type (Cp)",
+        "Serum Cholesterol (Chol)"
+      ],
+      [
+        "Chest Pain Type (Cp)",
+        "Exercise Induced Angina"
+      ],
+      [
+        "laddist",
+        "ladprox"
+      ],
+      [
+        "Chest Pain Type (Cp)",
+        "Smoking History"
+      ]
+    ],
+    "count": 32,
+    "create_time": 1776185193,
+    "update_time": 1776185193,
+    "_id": "doc-d5e6f7b9c4faf1e2140431bc45c138eb"
+  },
+  "doc-da8a8ae5fe0df397bd5418d08005c0a0": {
+    "relation_pairs": [
+      [
+        "Ambulatory Blood Pressure Monitoring",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "Special Situations In Hypertension Management"
+      ],
+      [
+        "Hypertension",
+        "United States"
+      ],
+      [
+        "Hypertension",
+        "Stroke"
+      ],
+      [
+        "Hypertension",
+        "Lifestyle Modifications"
+      ],
+      [
+        "JNC 7 Guidelines",
+        "Public Health Workers"
+      ],
+      [
+        "Coronary Heart Disease",
+        "Hypertension"
+      ],
+      [
+        "Dental Issues In Hypertensive Individuals",
+        "Hypertension"
+      ],
+      [
+        "National Heart, Lung, and Blood Institute",
+        "Stroke"
+      ],
+      [
+        "High Blood Pressure",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "Parenteral Drugs For Treatment Of Hypertensive Emergencies"
+      ],
+      [
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)",
+        "NHBPEP Coordinating Committee"
+      ],
+      [
+        "Hypertension",
+        "Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure"
+      ],
+      [
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure",
+        "Metabolic Syndrome"
+      ],
+      [
+        "Diastolic Blood Pressure (DBP)",
+        "Goal Blood Pressure"
+      ],
+      [
+        "Age Trends",
+        "Hypertension"
+      ],
+      [
+        "Blood Pressure (BP)",
+        "Ischemic Heart Disease (IHD)"
+      ],
+      [
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)",
+        "National Heart, Lung, And Blood Institute (NHLBI)"
+      ],
+      [
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure",
+        "The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+      ],
+      [
+        "140/90 mmHg",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "Pharmacologic Treatment"
+      ],
+      [
+        "Health Care",
+        "Hypertension"
+      ],
+      [
+        "Diabetes And Hypertension",
+        "Hypertension"
+      ],
+      [
+        "Dr. Aram Chobanian",
+        "The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)"
+      ],
+      [
+        "Lee A. Green",
+        "University of Michigan"
+      ],
+      [
+        "Hypertension",
+        "Obstructive Sleep Apnea"
+      ],
+      [
+        "Coronary Heart Disease (CHD)",
+        "natural history"
+      ],
+      [
+        "Stroke",
+        "natural history"
+      ],
+      [
+        "Hypertension",
+        "Urinary Outflow Obstruction"
+      ],
+      [
+        "Hypertension",
+        "JNC 7 Guidelines"
+      ],
+      [
+        "Hypertension",
+        "Lifestyle Modifications To Prevent And Manage Hypertension"
+      ],
+      [
+        "Coronary Heart Disease",
+        "United States"
+      ],
+      [
+        "JNC 7 Guidelines",
+        "Primary Care Clinicians"
+      ],
+      [
+        "Hypertension",
+        "Hypertensive Crises: Emergencies And Urgencies"
+      ],
+      [
+        "Coronary Heart Disease (CHD)",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "Table 1"
+      ],
+      [
+        "Anti-Hypertensive Drug Classes",
+        "JNC 7 Guidelines"
+      ],
+      [
+        "Barry J. Materson",
+        "GlaxoSmithKline"
+      ],
+      [
+        "Clinical Impact",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "Patient Evaluation"
+      ],
+      [
+        "Coronary Heart Disease",
+        "National Heart, Lung, and Blood Institute"
+      ],
+      [
+        "Congestive Heart Failure",
+        "National Heart, Lung, and Blood Institute"
+      ],
+      [
+        "Blood Pressure (BP)",
+        "Stroke"
+      ],
+      [
+        "Hypertension",
+        "Patients Undergoing Surgery"
+      ],
+      [
+        "Chronic Kidney Disease",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "National Health and Nutrition Examination Survey (NHANES)"
+      ],
+      [
+        "DASH Eating Committee",
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+      ],
+      [
+        "George L. Bakris",
+        "Rush University Medical Center"
+      ],
+      [
+        "Hypertension",
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+      ],
+      [
+        "Erectile Dysfunction And Hypertension",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "Hypertension And The Eye"
+      ],
+      [
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)",
+        "The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)"
+      ],
+      [
+        "Hypertension",
+        "World Health Organization (WHO)"
+      ],
+      [
+        "End-Stage Renal Disease (ESRD)",
+        "Hypertension"
+      ],
+      [
+        "Algorithm For Treatment Of Hypertension",
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+      ],
+      [
+        "Blood Pressure",
+        "JNC 7 Guidelines"
+      ],
+      [
+        "115 mmHg SBP",
+        "Hypertension"
+      ],
+      [
+        "Dr. Aram Chobanian",
+        "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+      ],
+      [
+        "Goal Blood Pressure",
+        "Systolic Blood Pressure (SBP)"
+      ],
+      [
+        "Astra-Zeneca",
+        "Joseph L. Izzo"
+      ],
+      [
+        "Hypertension",
+        "Metabolic Syndrome"
+      ],
+      [
+        "Coronary Heart Disease (CHD)",
+        "National Heart, Lung, and Blood Institute"
+      ],
+      [
+        "Hypertension",
+        "Hypertension In Children And Adolescents"
+      ],
+      [
+        "Cardiovascular Risk Factors",
+        "Hypertension"
+      ],
+      [
+        "Hypertension",
+        "JNC 7"
+      ],
+      [
+        "Bristol-Myers Squibb",
+        "William C. Cushman"
+      ],
+      [
+        "Daniel W. Jones",
+        "Pfizer"
+      ],
+      [
+        "Aram V. Chobanian",
+        "Bristol-Myers Squibb"
+      ],
+      [
+        "Hypertension",
+        "Hypertension In Women"
+      ],
+      [
+        "Hypertension",
+        "Treatment"
+      ]
+    ],
+    "count": 70,
+    "create_time": 1776186522,
+    "update_time": 1776186522,
+    "_id": "doc-da8a8ae5fe0df397bd5418d08005c0a0"
+  }
+}

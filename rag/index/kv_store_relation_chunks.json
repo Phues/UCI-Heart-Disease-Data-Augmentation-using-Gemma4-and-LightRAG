@@ -1,0 +1,1443 @@
+{
+  "LDL-lowering Drugs<SEP>Major Coronary Events": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184713,
+    "update_time": 1776184713,
+    "_id": "LDL-lowering Drugs<SEP>Major Coronary Events"
+  },
+  "LDL Cholesterol<SEP>Secondary Dyslipidemia": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184713,
+    "update_time": 1776184713,
+    "_id": "LDL Cholesterol<SEP>Secondary Dyslipidemia"
+  },
+  "Drug Therapy<SEP>Therapeutic Lifestyle Changes (TLC)": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184713,
+    "update_time": 1776184713,
+    "_id": "Drug Therapy<SEP>Therapeutic Lifestyle Changes (TLC)"
+  },
+  "Coronary Death<SEP>LDL-lowering Drugs": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184714,
+    "update_time": 1776184714,
+    "_id": "Coronary Death<SEP>LDL-lowering Drugs"
+  },
+  "Diabetes<SEP>Secondary Dyslipidemia": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184714,
+    "update_time": 1776184714,
+    "_id": "Diabetes<SEP>Secondary Dyslipidemia"
+  },
+  "ATP III<SEP>LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60",
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 2,
+    "create_time": 1776184714,
+    "update_time": 1776184714,
+    "_id": "ATP III<SEP>LDL Cholesterol"
+  },
+  "Hypothyroidism<SEP>Secondary Dyslipidemia": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184715,
+    "update_time": 1776184715,
+    "_id": "Hypothyroidism<SEP>Secondary Dyslipidemia"
+  },
+  "LDL Cholesterol<SEP>Optimal LDL Cholesterol Level": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184715,
+    "update_time": 1776184715,
+    "_id": "LDL Cholesterol<SEP>Optimal LDL Cholesterol Level"
+  },
+  "ATP III<SEP>Total Cholesterol": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184715,
+    "update_time": 1776184715,
+    "_id": "ATP III<SEP>Total Cholesterol"
+  },
+  "CHD<SEP>Framingham Risk Scores": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184715,
+    "update_time": 1776184715,
+    "_id": "CHD<SEP>Framingham Risk Scores"
+  },
+  "Chronic Renal Failure<SEP>Secondary Dyslipidemia": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184715,
+    "update_time": 1776184715,
+    "_id": "Chronic Renal Failure<SEP>Secondary Dyslipidemia"
+  },
+  "LDL Cholesterol<SEP>Major Risk Factors": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184715,
+    "update_time": 1776184715,
+    "_id": "LDL Cholesterol<SEP>Major Risk Factors"
+  },
+  "ATP III<SEP>HDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184715,
+    "update_time": 1776184715,
+    "_id": "ATP III<SEP>HDL Cholesterol"
+  },
+  "CHD<SEP>Cigarette Smoking": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184716,
+    "update_time": 1776184716,
+    "_id": "CHD<SEP>Cigarette Smoking"
+  },
+  "Progestins, Anabolic Steroids, Corticosteroids<SEP>Secondary Dyslipidemia": {
+    "chunk_ids": [
+      "chunk-57adaeb7bcb649de8c16646ccbd2da60"
+    ],
+    "count": 1,
+    "create_time": 1776184716,
+    "update_time": 1776184716,
+    "_id": "Progestins, Anabolic Steroids, Corticosteroids<SEP>Secondary Dyslipidemia"
+  },
+  "ATP III<SEP>Risk Category": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184716,
+    "update_time": 1776184716,
+    "_id": "ATP III<SEP>Risk Category"
+  },
+  "CHD<SEP>Diabetes": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184716,
+    "update_time": 1776184716,
+    "_id": "CHD<SEP>Diabetes"
+  },
+  "Congress<SEP>United States": {
+    "chunk_ids": [
+      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
+    ],
+    "count": 1,
+    "create_time": 1776184716,
+    "update_time": 1776184716,
+    "_id": "Congress<SEP>United States"
+  },
+  "Adult Treatment Panel III<SEP>National Cholesterol Education Program": {
+    "chunk_ids": [
+      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
+    ],
+    "count": 1,
+    "create_time": 1776184716,
+    "update_time": 1776184716,
+    "_id": "Adult Treatment Panel III<SEP>National Cholesterol Education Program"
+  },
+  "LDL Cholesterol<SEP>Multiple Risk Factors": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184717,
+    "update_time": 1776184717,
+    "_id": "LDL Cholesterol<SEP>Multiple Risk Factors"
+  },
+  "CHD<SEP>CHD risk equivalents": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184717,
+    "update_time": 1776184717,
+    "_id": "CHD<SEP>CHD risk equivalents"
+  },
+  "High Blood Cholesterol<SEP>NCEP Expert Panel": {
+    "chunk_ids": [
+      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
+    ],
+    "count": 1,
+    "create_time": 1776184717,
+    "update_time": 1776184717,
+    "_id": "High Blood Cholesterol<SEP>NCEP Expert Panel"
+  },
+  "National Cholesterol Education Program<SEP>National Heart, Lung, and Blood Institute": {
+    "chunk_ids": [
+      "chunk-6a0733bca7611147bd0d7b8452e9cd47"
+    ],
+    "count": 1,
+    "create_time": 1776184717,
+    "update_time": 1776184717,
+    "_id": "National Cholesterol Education Program<SEP>National Heart, Lung, and Blood Institute"
+  },
+  "Coronary Heart Disease (CHD)<SEP>LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
+    ],
+    "count": 1,
+    "create_time": 1776184718,
+    "update_time": 1776184718,
+    "_id": "Coronary Heart Disease (CHD)<SEP>LDL Cholesterol"
+  },
+  "National Cholesterol Education Program<SEP>Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)": {
+    "chunk_ids": [
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
+    ],
+    "count": 1,
+    "create_time": 1776184718,
+    "update_time": 1776184718,
+    "_id": "National Cholesterol Education Program<SEP>Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)"
+  },
+  "ATP I<SEP>ATP II": {
+    "chunk_ids": [
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
+    ],
+    "count": 1,
+    "create_time": 1776184718,
+    "update_time": 1776184718,
+    "_id": "ATP I<SEP>ATP II"
+  },
+  "CHD<SEP>Family History of Premature CHD": {
+    "chunk_ids": [
+      "chunk-c570d0f2b907a96493872be58707aa5f"
+    ],
+    "count": 1,
+    "create_time": 1776184719,
+    "update_time": 1776184719,
+    "_id": "CHD<SEP>Family History of Premature CHD"
+  },
+  "Lipoprotein Profile<SEP>Total Cholesterol": {
+    "chunk_ids": [
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
+    ],
+    "count": 1,
+    "create_time": 1776184719,
+    "update_time": 1776184719,
+    "_id": "Lipoprotein Profile<SEP>Total Cholesterol"
+  },
+  "Coronary Heart Disease (CHD)<SEP>Framingham Projections": {
+    "chunk_ids": [
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
+    ],
+    "count": 1,
+    "create_time": 1776184719,
+    "update_time": 1776184719,
+    "_id": "Coronary Heart Disease (CHD)<SEP>Framingham Projections"
+  },
+  "High Blood Cholesterol<SEP>Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)": {
+    "chunk_ids": [
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
+    ],
+    "count": 1,
+    "create_time": 1776184719,
+    "update_time": 1776184719,
+    "_id": "High Blood Cholesterol<SEP>Third Report of the Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) (ATP III)"
+  },
+  "100 mg/dL<SEP>LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
+    ],
+    "count": 1,
+    "create_time": 1776184719,
+    "update_time": 1776184719,
+    "_id": "100 mg/dL<SEP>LDL Cholesterol"
+  },
+  "Clinical Judgment<SEP>Older Persons": {
+    "chunk_ids": [
+      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
+    ],
+    "count": 1,
+    "create_time": 1776184719,
+    "update_time": 1776184719,
+    "_id": "Clinical Judgment<SEP>Older Persons"
+  },
+  "CHD<SEP>TLC Diet": {
+    "chunk_ids": [
+      "chunk-07f4f68e34842231fc2bbe4c218d9f0e"
+    ],
+    "count": 1,
+    "create_time": 1776184719,
+    "update_time": 1776184719,
+    "_id": "CHD<SEP>TLC Diet"
+  },
+  "ATP II<SEP>Coronary Heart Disease (CHD)": {
+    "chunk_ids": [
+      "chunk-ed3e1f1eaf2900d92ba10f335113ce56"
+    ],
+    "count": 1,
+    "create_time": 1776184720,
+    "update_time": 1776184720,
+    "_id": "ATP II<SEP>Coronary Heart Disease (CHD)"
+  },
+  "Fibrates<SEP>Triglycerides": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184720,
+    "update_time": 1776184720,
+    "_id": "Fibrates<SEP>Triglycerides"
+  },
+  "Myopathy<SEP>Statin Drugs": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184720,
+    "update_time": 1776184720,
+    "_id": "Myopathy<SEP>Statin Drugs"
+  },
+  "Drug Use<SEP>Peptic Ulcer Disease": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184721,
+    "update_time": 1776184721,
+    "_id": "Drug Use<SEP>Peptic Ulcer Disease"
+  },
+  "Cytochrome P-450 Inhibitors<SEP>Fibrates": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184721,
+    "update_time": 1776184721,
+    "_id": "Cytochrome P-450 Inhibitors<SEP>Fibrates"
+  },
+  "LDL Cholesterol<SEP>Statin Drugs": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184721,
+    "update_time": 1776184721,
+    "_id": "LDL Cholesterol<SEP>Statin Drugs"
+  },
+  "Saturated Fat<SEP>TLC Diet": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184721,
+    "update_time": 1776184721,
+    "_id": "Saturated Fat<SEP>TLC Diet"
+  },
+  "Cytochrome P-450 Inhibitors<SEP>Nicotinic Acid": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184722,
+    "update_time": 1776184722,
+    "_id": "Cytochrome P-450 Inhibitors<SEP>Nicotinic Acid"
+  },
+  "Drug Use<SEP>Dyspepsia": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184722,
+    "update_time": 1776184722,
+    "_id": "Drug Use<SEP>Dyspepsia"
+  },
+  "Polyunsaturated Fat<SEP>Total Fat": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184722,
+    "update_time": 1776184722,
+    "_id": "Polyunsaturated Fat<SEP>Total Fat"
+  },
+  "Bile Acid Sequestrants<SEP>LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184722,
+    "update_time": 1776184722,
+    "_id": "Bile Acid Sequestrants<SEP>LDL Cholesterol"
+  },
+  "Physical Activity<SEP>Weight Reduction Therapy": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184722,
+    "update_time": 1776184722,
+    "_id": "Physical Activity<SEP>Weight Reduction Therapy"
+  },
+  "Cholesterol<SEP>TLC Diet": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184722,
+    "update_time": 1776184722,
+    "_id": "Cholesterol<SEP>TLC Diet"
+  },
+  "Nutritionist<SEP>Registered Dietitians": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184723,
+    "update_time": 1776184723,
+    "_id": "Nutritionist<SEP>Registered Dietitians"
+  },
+  "LDL Cholesterol<SEP>Nicotinic Acid": {
+    "chunk_ids": [
+      "chunk-4d1e515ef00486628c0bb42b99da9cc4"
+    ],
+    "count": 1,
+    "create_time": 1776184723,
+    "update_time": 1776184723,
+    "_id": "LDL Cholesterol<SEP>Nicotinic Acid"
+  },
+  "LDL-lowering Drugs<SEP>Primary Prevention": {
+    "chunk_ids": [
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+    ],
+    "count": 1,
+    "create_time": 1776184723,
+    "update_time": 1776184723,
+    "_id": "LDL-lowering Drugs<SEP>Primary Prevention"
+  },
+  "Life-Habit Risk Factors<SEP>Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+    ],
+    "count": 1,
+    "create_time": 1776184723,
+    "update_time": 1776184723,
+    "_id": "Life-Habit Risk Factors<SEP>Metabolic Syndrome"
+  },
+  "Dietary Guidelines For Americans 2000<SEP>TLC Diet": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184723,
+    "update_time": 1776184723,
+    "_id": "Dietary Guidelines For Americans 2000<SEP>TLC Diet"
+  },
+  "ATP III<SEP>Core Risk Status": {
+    "chunk_ids": [
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+    ],
+    "count": 1,
+    "create_time": 1776184723,
+    "update_time": 1776184723,
+    "_id": "ATP III<SEP>Core Risk Status"
+  },
+  "LDL Cholesterol<SEP>Weight Reduction Therapy": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184723,
+    "update_time": 1776184723,
+    "_id": "LDL Cholesterol<SEP>Weight Reduction Therapy"
+  },
+  "HMG CoA Reductase Inhibitors<SEP>LDL Cholesterol": {
+    "chunk_ids": [
+      "chunk-d51c91a795e7cdcf59a9d0842dd49d94"
+    ],
+    "count": 1,
+    "create_time": 1776184784,
+    "update_time": 1776184784,
+    "_id": "HMG CoA Reductase Inhibitors<SEP>LDL Cholesterol"
+  },
+  "Primary Prevention<SEP>Saturated Fat": {
+    "chunk_ids": [
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+    ],
+    "count": 1,
+    "create_time": 1776184784,
+    "update_time": 1776184784,
+    "_id": "Primary Prevention<SEP>Saturated Fat"
+  },
+  "Emerging Risk Factors<SEP>Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+    ],
+    "count": 1,
+    "create_time": 1776184785,
+    "update_time": 1776184785,
+    "_id": "Emerging Risk Factors<SEP>Metabolic Syndrome"
+  },
+  "Primary Prevention<SEP>Weight Control": {
+    "chunk_ids": [
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+    ],
+    "count": 1,
+    "create_time": 1776184785,
+    "update_time": 1776184785,
+    "_id": "Primary Prevention<SEP>Weight Control"
+  },
+  "LDL Cholesterol<SEP>Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-6bd98e2ff824d23b7b1224dc2e08b50a"
+    ],
+    "count": 1,
+    "create_time": 1776184785,
+    "update_time": 1776184785,
+    "_id": "LDL Cholesterol<SEP>Metabolic Syndrome"
+  },
+  "exeref<SEP>restef": {
+    "chunk_ids": [
+      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
+    ],
+    "count": 1,
+    "create_time": 1776185126,
+    "update_time": 1776185126,
+    "_id": "exeref<SEP>restef"
+  },
+  "exerwm<SEP>restwm": {
+    "chunk_ids": [
+      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
+    ],
+    "count": 1,
+    "create_time": 1776185126,
+    "update_time": 1776185126,
+    "_id": "exerwm<SEP>restwm"
+  },
+  "laddist<SEP>ladprox": {
+    "chunk_ids": [
+      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
+    ],
+    "count": 1,
+    "create_time": 1776185126,
+    "update_time": 1776185126,
+    "_id": "laddist<SEP>ladprox"
+  },
+  "rcadist<SEP>rcaprox": {
+    "chunk_ids": [
+      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
+    ],
+    "count": 1,
+    "create_time": 1776185126,
+    "update_time": 1776185126,
+    "_id": "rcadist<SEP>rcaprox"
+  },
+  "Data Set<SEP>David W. Aha": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185126,
+    "update_time": 1776185126,
+    "_id": "Data Set<SEP>David W. Aha"
+  },
+  "Cleveland Clinic Foundation<SEP>Heart Disease Diagnosis": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185126,
+    "update_time": 1776185126,
+    "_id": "Cleveland Clinic Foundation<SEP>Heart Disease Diagnosis"
+  },
+  "ca<SEP>restwm": {
+    "chunk_ids": [
+      "chunk-b8497f56d42f5168ef1da42df0f6b34a"
+    ],
+    "count": 1,
+    "create_time": 1776185127,
+    "update_time": 1776185127,
+    "_id": "ca<SEP>restwm"
+  },
+  "Andras Janosi<SEP>Hungarian Institute Of Cardiology": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185127,
+    "update_time": 1776185127,
+    "_id": "Andras Janosi<SEP>Hungarian Institute Of Cardiology"
+  },
+  "University Hospital, Zurich<SEP>William Steinbrunn": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185127,
+    "update_time": 1776185127,
+    "_id": "University Hospital, Zurich<SEP>William Steinbrunn"
+  },
+  "Matthias Pfisterer<SEP>University Hospital, Basel": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185127,
+    "update_time": 1776185127,
+    "_id": "Matthias Pfisterer<SEP>University Hospital, Basel"
+  },
+  "Cleveland Clinic Foundation<SEP>Robert Detrano": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185127,
+    "update_time": 1776185127,
+    "_id": "Cleveland Clinic Foundation<SEP>Robert Detrano"
+  },
+  "Heart Disease Diagnosis<SEP>Hungarian Institute Of Cardiology": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185128,
+    "update_time": 1776185128,
+    "_id": "Heart Disease Diagnosis<SEP>Hungarian Institute Of Cardiology"
+  },
+  "Age<SEP>Chest Pain Type (Cp)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185128,
+    "update_time": 1776185128,
+    "_id": "Age<SEP>Chest Pain Type (Cp)"
+  },
+  "Robert Detrano<SEP>V.A. Medical Center, Long Beach": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185128,
+    "update_time": 1776185128,
+    "_id": "Robert Detrano<SEP>V.A. Medical Center, Long Beach"
+  },
+  "Concept<SEP>Fasting Blood Sugar (Fbs)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185128,
+    "update_time": 1776185128,
+    "_id": "Concept<SEP>Fasting Blood Sugar (Fbs)"
+  },
+  "Heart Disease Diagnosis<SEP>University Hospital, Zurich": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185128,
+    "update_time": 1776185128,
+    "_id": "Heart Disease Diagnosis<SEP>University Hospital, Zurich"
+  },
+  "Chest Pain Type (Cp)<SEP>Serum Cholesterol (Chol)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185129,
+    "update_time": 1776185129,
+    "_id": "Chest Pain Type (Cp)<SEP>Serum Cholesterol (Chol)"
+  },
+  "Heart Disease Diagnosis<SEP>V.A. Medical Center, Long Beach": {
+    "chunk_ids": [
+      "chunk-20981d17a26fa9d4f6641b858e66a4dd"
+    ],
+    "count": 1,
+    "create_time": 1776185129,
+    "update_time": 1776185129,
+    "_id": "Heart Disease Diagnosis<SEP>V.A. Medical Center, Long Beach"
+  },
+  "Chest Pain Type (Cp)<SEP>Resting Blood Pressure (Trestbps)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185130,
+    "update_time": 1776185130,
+    "_id": "Chest Pain Type (Cp)<SEP>Resting Blood Pressure (Trestbps)"
+  },
+  "Concept<SEP>Resting Electrocardiographic Results (Restecg)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185130,
+    "update_time": 1776185130,
+    "_id": "Concept<SEP>Resting Electrocardiographic Results (Restecg)"
+  },
+  "Chest Pain Type (Cp)<SEP>Exercise Induced Angina": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185130,
+    "update_time": 1776185130,
+    "_id": "Chest Pain Type (Cp)<SEP>Exercise Induced Angina"
+  },
+  "Concept<SEP>Maximum Heart Rate Achieved (Thalach)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185130,
+    "update_time": 1776185130,
+    "_id": "Concept<SEP>Maximum Heart Rate Achieved (Thalach)"
+  },
+  "Beta Blocker Use<SEP>Digitalis Use": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185130,
+    "update_time": 1776185130,
+    "_id": "Beta Blocker Use<SEP>Digitalis Use"
+  },
+  "Concept<SEP>Relief After Rest": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185131,
+    "update_time": 1776185131,
+    "_id": "Concept<SEP>Relief After Rest"
+  },
+  "Beta Blocker Use<SEP>Calcium Channel Blocker Use": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185131,
+    "update_time": 1776185131,
+    "_id": "Beta Blocker Use<SEP>Calcium Channel Blocker Use"
+  },
+  "Diuretic Use<SEP>Nitrate Use": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185131,
+    "update_time": 1776185131,
+    "_id": "Diuretic Use<SEP>Nitrate Use"
+  },
+  "Chest Pain Type (Cp)<SEP>Pain Location": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185131,
+    "update_time": 1776185131,
+    "_id": "Chest Pain Type (Cp)<SEP>Pain Location"
+  },
+  "Exercise Blood Pressure<SEP>Maximum Heart Rate Achieved (Thalach)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185131,
+    "update_time": 1776185131,
+    "_id": "Exercise Blood Pressure<SEP>Maximum Heart Rate Achieved (Thalach)"
+  },
+  "Serum Cholesterol (Chol)<SEP>Smoking History": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185131,
+    "update_time": 1776185131,
+    "_id": "Serum Cholesterol (Chol)<SEP>Smoking History"
+  },
+  "Chest Pain Exertion<SEP>Chest Pain Type (Cp)": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185192,
+    "update_time": 1776185192,
+    "_id": "Chest Pain Exertion<SEP>Chest Pain Type (Cp)"
+  },
+  "Chest Pain Type (Cp)<SEP>Family History": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185192,
+    "update_time": 1776185192,
+    "_id": "Chest Pain Type (Cp)<SEP>Family History"
+  },
+  "Chest Pain Type (Cp)<SEP>Smoking History": {
+    "chunk_ids": [
+      "chunk-447c6e3389a31a2f5b30a6feff63926e"
+    ],
+    "count": 1,
+    "create_time": 1776185193,
+    "update_time": 1776185193,
+    "_id": "Chest Pain Type (Cp)<SEP>Smoking History"
+  },
+  "Aram V. Chobanian<SEP>Bristol-Myers Squibb": {
+    "chunk_ids": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+    ],
+    "count": 1,
+    "create_time": 1776186443,
+    "update_time": 1776186443,
+    "_id": "Aram V. Chobanian<SEP>Bristol-Myers Squibb"
+  },
+  "George L. Bakris<SEP>Rush University Medical Center": {
+    "chunk_ids": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+    ],
+    "count": 1,
+    "create_time": 1776186443,
+    "update_time": 1776186443,
+    "_id": "George L. Bakris<SEP>Rush University Medical Center"
+  },
+  "Lee A. Green<SEP>University of Michigan": {
+    "chunk_ids": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+    ],
+    "count": 1,
+    "create_time": 1776186443,
+    "update_time": 1776186443,
+    "_id": "Lee A. Green<SEP>University of Michigan"
+  },
+  "Astra-Zeneca<SEP>Joseph L. Izzo": {
+    "chunk_ids": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+    ],
+    "count": 1,
+    "create_time": 1776186443,
+    "update_time": 1776186443,
+    "_id": "Astra-Zeneca<SEP>Joseph L. Izzo"
+  },
+  "Daniel W. Jones<SEP>Pfizer": {
+    "chunk_ids": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+    ],
+    "count": 1,
+    "create_time": 1776186443,
+    "update_time": 1776186443,
+    "_id": "Daniel W. Jones<SEP>Pfizer"
+  },
+  "Barry J. Materson<SEP>GlaxoSmithKline": {
+    "chunk_ids": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+    ],
+    "count": 1,
+    "create_time": 1776186443,
+    "update_time": 1776186443,
+    "_id": "Barry J. Materson<SEP>GlaxoSmithKline"
+  },
+  "Hypertension<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure": {
+    "chunk_ids": [
+      "chunk-089153c0a9e43f431c755dfee9cbc20e"
+    ],
+    "count": 1,
+    "create_time": 1776186443,
+    "update_time": 1776186443,
+    "_id": "Hypertension<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+  },
+  "Bristol-Myers Squibb<SEP>William C. Cushman": {
+    "chunk_ids": [
+      "chunk-d325d60dfcf15b69e0c3889a048bbf73"
+    ],
+    "count": 1,
+    "create_time": 1776186444,
+    "update_time": 1776186444,
+    "_id": "Bristol-Myers Squibb<SEP>William C. Cushman"
+  },
+  "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure<SEP>Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-089153c0a9e43f431c755dfee9cbc20e"
+    ],
+    "count": 1,
+    "create_time": 1776186444,
+    "update_time": 1776186444,
+    "_id": "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure<SEP>Metabolic Syndrome"
+  },
+  "High Blood Pressure<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-089153c0a9e43f431c755dfee9cbc20e"
+    ],
+    "count": 1,
+    "create_time": 1776186444,
+    "update_time": 1776186444,
+    "_id": "High Blood Pressure<SEP>Hypertension"
+  },
+  "Cardiovascular Risk Factors<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-089153c0a9e43f431c755dfee9cbc20e"
+    ],
+    "count": 1,
+    "create_time": 1776186445,
+    "update_time": 1776186445,
+    "_id": "Cardiovascular Risk Factors<SEP>Hypertension"
+  },
+  "Hypertension<SEP>Lifestyle Modifications To Prevent And Manage Hypertension": {
+    "chunk_ids": [
+      "chunk-089153c0a9e43f431c755dfee9cbc20e"
+    ],
+    "count": 1,
+    "create_time": 1776186445,
+    "update_time": 1776186445,
+    "_id": "Hypertension<SEP>Lifestyle Modifications To Prevent And Manage Hypertension"
+  },
+  "Ambulatory Blood Pressure Monitoring<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-089153c0a9e43f431c755dfee9cbc20e"
+    ],
+    "count": 1,
+    "create_time": 1776186446,
+    "update_time": 1776186446,
+    "_id": "Ambulatory Blood Pressure Monitoring<SEP>Hypertension"
+  },
+  "Hypertension<SEP>Treatment": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186446,
+    "update_time": 1776186446,
+    "_id": "Hypertension<SEP>Treatment"
+  },
+  "Hypertension<SEP>Patient Evaluation": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186447,
+    "update_time": 1776186447,
+    "_id": "Hypertension<SEP>Patient Evaluation"
+  },
+  "Hypertension<SEP>Lifestyle Modifications": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186447,
+    "update_time": 1776186447,
+    "_id": "Hypertension<SEP>Lifestyle Modifications"
+  },
+  "Hypertension<SEP>Pharmacologic Treatment": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186447,
+    "update_time": 1776186447,
+    "_id": "Hypertension<SEP>Pharmacologic Treatment"
+  },
+  "Age Trends<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186448,
+    "update_time": 1776186448,
+    "_id": "Age Trends<SEP>Hypertension"
+  },
+  "Clinical Impact<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186448,
+    "update_time": 1776186448,
+    "_id": "Clinical Impact<SEP>Hypertension"
+  },
+  "Hypertension<SEP>Metabolic Syndrome": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186448,
+    "update_time": 1776186448,
+    "_id": "Hypertension<SEP>Metabolic Syndrome"
+  },
+  "Diabetes And Hypertension<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186449,
+    "update_time": 1776186449,
+    "_id": "Diabetes And Hypertension<SEP>Hypertension"
+  },
+  "Chronic Kidney Disease<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186449,
+    "update_time": 1776186449,
+    "_id": "Chronic Kidney Disease<SEP>Hypertension"
+  },
+  "Blood Pressure (BP)<SEP>Ischemic Heart Disease (IHD)": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186449,
+    "update_time": 1776186449,
+    "_id": "Blood Pressure (BP)<SEP>Ischemic Heart Disease (IHD)"
+  },
+  "Hypertension<SEP>Special Situations In Hypertension Management": {
+    "chunk_ids": [
+      "chunk-2c68597b34118931dc76621ef26e8459"
+    ],
+    "count": 1,
+    "create_time": 1776186449,
+    "update_time": 1776186449,
+    "_id": "Hypertension<SEP>Special Situations In Hypertension Management"
+  },
+  "Blood Pressure (BP)<SEP>Stroke": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186449,
+    "update_time": 1776186449,
+    "_id": "Blood Pressure (BP)<SEP>Stroke"
+  },
+  "Hypertension<SEP>World Health Organization (WHO)": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186450,
+    "update_time": 1776186450,
+    "_id": "Hypertension<SEP>World Health Organization (WHO)"
+  },
+  "Stroke<SEP>natural history": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186450,
+    "update_time": 1776186450,
+    "_id": "Stroke<SEP>natural history"
+  },
+  "Hypertension<SEP>Stroke": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186450,
+    "update_time": 1776186450,
+    "_id": "Hypertension<SEP>Stroke"
+  },
+  "National Heart, Lung, and Blood Institute<SEP>Stroke": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186451,
+    "update_time": 1776186451,
+    "_id": "National Heart, Lung, and Blood Institute<SEP>Stroke"
+  },
+  "Coronary Heart Disease (CHD)<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186451,
+    "update_time": 1776186451,
+    "_id": "Coronary Heart Disease (CHD)<SEP>Hypertension"
+  },
+  "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure<SEP>The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure": {
+    "chunk_ids": [
+      "chunk-0aa33a009726cb2a0f199d167ecc8006"
+    ],
+    "count": 1,
+    "create_time": 1776186451,
+    "update_time": 1776186451,
+    "_id": "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure<SEP>The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+  },
+  "Hypertension<SEP>National Health and Nutrition Examination Survey (NHANES)": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186451,
+    "update_time": 1776186451,
+    "_id": "Hypertension<SEP>National Health and Nutrition Examination Survey (NHANES)"
+  },
+  "Coronary Heart Disease (CHD)<SEP>natural history": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186451,
+    "update_time": 1776186451,
+    "_id": "Coronary Heart Disease (CHD)<SEP>natural history"
+  },
+  "Dr. Aram Chobanian<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure": {
+    "chunk_ids": [
+      "chunk-0aa33a009726cb2a0f199d167ecc8006"
+    ],
+    "count": 1,
+    "create_time": 1776186451,
+    "update_time": 1776186451,
+    "_id": "Dr. Aram Chobanian<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+  },
+  "Hypertension<SEP>Table 1": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186451,
+    "update_time": 1776186451,
+    "_id": "Hypertension<SEP>Table 1"
+  },
+  "Coronary Heart Disease (CHD)<SEP>National Heart, Lung, and Blood Institute": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186452,
+    "update_time": 1776186452,
+    "_id": "Coronary Heart Disease (CHD)<SEP>National Heart, Lung, and Blood Institute"
+  },
+  "Algorithm For Treatment Of Hypertension<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure": {
+    "chunk_ids": [
+      "chunk-0aa33a009726cb2a0f199d167ecc8006"
+    ],
+    "count": 1,
+    "create_time": 1776186452,
+    "update_time": 1776186452,
+    "_id": "Algorithm For Treatment Of Hypertension<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+  },
+  "140/90 mmHg<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186452,
+    "update_time": 1776186452,
+    "_id": "140/90 mmHg<SEP>Hypertension"
+  },
+  "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)<SEP>The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186452,
+    "update_time": 1776186452,
+    "_id": "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)<SEP>The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)"
+  },
+  "DASH Eating Committee<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure": {
+    "chunk_ids": [
+      "chunk-0aa33a009726cb2a0f199d167ecc8006"
+    ],
+    "count": 1,
+    "create_time": 1776186452,
+    "update_time": 1776186452,
+    "_id": "DASH Eating Committee<SEP>Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure"
+  },
+  "115 mmHg SBP<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-58763f1e533c69de4d39064f39a03154"
+    ],
+    "count": 1,
+    "create_time": 1776186452,
+    "update_time": 1776186452,
+    "_id": "115 mmHg SBP<SEP>Hypertension"
+  },
+  "Dr. Aram Chobanian<SEP>The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186453,
+    "update_time": 1776186453,
+    "_id": "Dr. Aram Chobanian<SEP>The Seventh Report Of The Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)"
+  },
+  "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)<SEP>National Heart, Lung, And Blood Institute (NHLBI)": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186453,
+    "update_time": 1776186453,
+    "_id": "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)<SEP>National Heart, Lung, And Blood Institute (NHLBI)"
+  },
+  "Blood Pressure<SEP>JNC 7 Guidelines": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186453,
+    "update_time": 1776186453,
+    "_id": "Blood Pressure<SEP>JNC 7 Guidelines"
+  },
+  "Hypertension<SEP>JNC 7": {
+    "chunk_ids": [
+      "chunk-0aa33a009726cb2a0f199d167ecc8006"
+    ],
+    "count": 1,
+    "create_time": 1776186453,
+    "update_time": 1776186453,
+    "_id": "Hypertension<SEP>JNC 7"
+  },
+  "Goal Blood Pressure<SEP>Systolic Blood Pressure (SBP)": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186453,
+    "update_time": 1776186453,
+    "_id": "Goal Blood Pressure<SEP>Systolic Blood Pressure (SBP)"
+  },
+  "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)<SEP>NHBPEP Coordinating Committee": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186453,
+    "update_time": 1776186453,
+    "_id": "Joint National Committee On Prevention, Detection, Evaluation, And Treatment Of High Blood Pressure (JNC 7)<SEP>NHBPEP Coordinating Committee"
+  },
+  "Anti-Hypertensive Drug Classes<SEP>JNC 7 Guidelines": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186453,
+    "update_time": 1776186453,
+    "_id": "Anti-Hypertensive Drug Classes<SEP>JNC 7 Guidelines"
+  },
+  "Hypertension<SEP>Parenteral Drugs For Treatment Of Hypertensive Emergencies": {
+    "chunk_ids": [
+      "chunk-0aa33a009726cb2a0f199d167ecc8006"
+    ],
+    "count": 1,
+    "create_time": 1776186454,
+    "update_time": 1776186454,
+    "_id": "Hypertension<SEP>Parenteral Drugs For Treatment Of Hypertensive Emergencies"
+  },
+  "Diastolic Blood Pressure (DBP)<SEP>Goal Blood Pressure": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186454,
+    "update_time": 1776186454,
+    "_id": "Diastolic Blood Pressure (DBP)<SEP>Goal Blood Pressure"
+  },
+  "Coronary Heart Disease<SEP>National Heart, Lung, and Blood Institute": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186454,
+    "update_time": 1776186454,
+    "_id": "Coronary Heart Disease<SEP>National Heart, Lung, and Blood Institute"
+  },
+  "JNC 7 Guidelines<SEP>Primary Care Clinicians": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186454,
+    "update_time": 1776186454,
+    "_id": "JNC 7 Guidelines<SEP>Primary Care Clinicians"
+  },
+  "Congestive Heart Failure<SEP>National Heart, Lung, and Blood Institute": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186455,
+    "update_time": 1776186455,
+    "_id": "Congestive Heart Failure<SEP>National Heart, Lung, and Blood Institute"
+  },
+  "Coronary Heart Disease<SEP>United States": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186455,
+    "update_time": 1776186455,
+    "_id": "Coronary Heart Disease<SEP>United States"
+  },
+  "JNC 7 Guidelines<SEP>Public Health Workers": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186455,
+    "update_time": 1776186455,
+    "_id": "JNC 7 Guidelines<SEP>Public Health Workers"
+  },
+  "Hypertension<SEP>JNC 7 Guidelines": {
+    "chunk_ids": [
+      "chunk-a158d7acb0688d684776ba9a5ab0bfa4"
+    ],
+    "count": 1,
+    "create_time": 1776186456,
+    "update_time": 1776186456,
+    "_id": "Hypertension<SEP>JNC 7 Guidelines"
+  },
+  "Hypertension<SEP>United States": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186516,
+    "update_time": 1776186516,
+    "_id": "Hypertension<SEP>United States"
+  },
+  "End-Stage Renal Disease (ESRD)<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186517,
+    "update_time": 1776186517,
+    "_id": "End-Stage Renal Disease (ESRD)<SEP>Hypertension"
+  },
+  "Hypertension<SEP>Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186517,
+    "update_time": 1776186517,
+    "_id": "Hypertension<SEP>Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure"
+  },
+  "Health Care<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186517,
+    "update_time": 1776186517,
+    "_id": "Health Care<SEP>Hypertension"
+  },
+  "Coronary Heart Disease<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-52224da6ee438f52167a3af07f7ae220"
+    ],
+    "count": 1,
+    "create_time": 1776186518,
+    "update_time": 1776186518,
+    "_id": "Coronary Heart Disease<SEP>Hypertension"
+  },
+  "Hypertension<SEP>Hypertension In Women": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186519,
+    "update_time": 1776186519,
+    "_id": "Hypertension<SEP>Hypertension In Women"
+  },
+  "Hypertension<SEP>Hypertension In Children And Adolescents": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186519,
+    "update_time": 1776186519,
+    "_id": "Hypertension<SEP>Hypertension In Children And Adolescents"
+  },
+  "Hypertension<SEP>Hypertensive Crises: Emergencies And Urgencies": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186520,
+    "update_time": 1776186520,
+    "_id": "Hypertension<SEP>Hypertensive Crises: Emergencies And Urgencies"
+  },
+  "Erectile Dysfunction And Hypertension<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186520,
+    "update_time": 1776186520,
+    "_id": "Erectile Dysfunction And Hypertension<SEP>Hypertension"
+  },
+  "Hypertension<SEP>Urinary Outflow Obstruction": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186520,
+    "update_time": 1776186520,
+    "_id": "Hypertension<SEP>Urinary Outflow Obstruction"
+  },
+  "Hypertension<SEP>Patients Undergoing Surgery": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186521,
+    "update_time": 1776186521,
+    "_id": "Hypertension<SEP>Patients Undergoing Surgery"
+  },
+  "Dental Issues In Hypertensive Individuals<SEP>Hypertension": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186521,
+    "update_time": 1776186521,
+    "_id": "Dental Issues In Hypertensive Individuals<SEP>Hypertension"
+  },
+  "Hypertension<SEP>Obstructive Sleep Apnea": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186521,
+    "update_time": 1776186521,
+    "_id": "Hypertension<SEP>Obstructive Sleep Apnea"
+  },
+  "Hypertension<SEP>Hypertension And The Eye": {
+    "chunk_ids": [
+      "chunk-b156f8826fe2c8e9404ae230c7ef768c"
+    ],
+    "count": 1,
+    "create_time": 1776186522,
+    "update_time": 1776186522,
+    "_id": "Hypertension<SEP>Hypertension And The Eye"
+  }
+}
