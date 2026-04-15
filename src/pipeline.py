@@ -75,7 +75,7 @@ async def main(n_records: int = 50):
 
     df_synthetic = await generate_dataset(n_records)
 
-    out_path = os.path.join(OUTPUT_DIR, "synthetic_heart.csv")
+    out_path = os.path.join(OUTPUT_DIR, "synthetic_heart_local.csv")
     df_synthetic.to_csv(out_path, index=False)
     print(f"\nSaved → {out_path}")
 
