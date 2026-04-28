@@ -9,14 +9,14 @@ OUTPUT_DIR    = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data
 ORIGINAL_DATA = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/raw/heart.csv"))
 
 SEED_PROFILES = [
-    {"age": 67, "sex": 1, "chol": 212, "trestbps": 152, "fbs": 0},  # mid-age male, moderate risk
-    {"age": 59, "sex": 1, "chol": 287, "trestbps": 140, "fbs": 0},  # older male, high risk
-    {"age": 60, "sex": 0, "chol": 240, "trestbps": 150, "fbs": 0},  # older female, high risk
-    {"age": 59, "sex": 0, "chol": 326, "trestbps": 170, "fbs": 0},  # young female, low risk
-    {"age": 55, "sex": 1, "chol": 289, "trestbps": 160, "fbs": 0},  # elderly male, very high risk
-    {"age": 58, "sex": 1, "chol": 211, "trestbps": 160, "fbs": 1},  # young male, low risk
-    {"age": 48, "sex": 1, "chol": 256, "trestbps": 133, "fbs": 1},  # post-menopausal female
-    {"age": 75, "sex": 1, "chol": 310, "trestbps": 160, "fbs": 1},  # diabetic male
+    {"age": 67, "sex": 1, "chol": 212, "trestbps": 152, "fbs": 0},  
+    {"age": 59, "sex": 1, "chol": 287, "trestbps": 140, "fbs": 0},  
+    {"age": 60, "sex": 0, "chol": 240, "trestbps": 150, "fbs": 0},  
+    {"age": 59, "sex": 0, "chol": 326, "trestbps": 170, "fbs": 0},  
+    {"age": 55, "sex": 1, "chol": 289, "trestbps": 160, "fbs": 0},  
+    {"age": 58, "sex": 1, "chol": 211, "trestbps": 160, "fbs": 1},  
+    {"age": 48, "sex": 1, "chol": 256, "trestbps": 133, "fbs": 1},  
+    {"age": 75, "sex": 1, "chol": 310, "trestbps": 160, "fbs": 1},  
 ]
 
 async def generate_dataset(n_records: int = 100) -> pd.DataFrame:
@@ -75,7 +75,7 @@ async def main(n_records: int = 50):
 
     df_synthetic = await generate_dataset(n_records)
 
-    out_path = os.path.join(OUTPUT_DIR, "synthetic_heart_local.csv")
+    out_path = os.path.join(OUTPUT_DIR, "synthetic_heart.csv")
     df_synthetic.to_csv(out_path, index=False)
     print(f"\nSaved → {out_path}")
 
